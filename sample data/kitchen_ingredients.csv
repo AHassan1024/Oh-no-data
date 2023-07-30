@@ -1,0 +1,1001 @@
+id,ingredient_name,quantity,unit_of_measurement,supplier_name,purchase_date,expiration_date,purchase_price,current_price
+1,Vegetable - Base,266.58,teaspoons,Devshare,18/08/2022,03/12/2022,7.16,9.58
+2,Bread - Rye,948.63,grams,Skinder,01/11/2022,21/04/2023,3.74,3.58
+3,"Stock - Chicken, White",943.24,cups,Wordware,,17/06/2022,,3.35
+4,"Asparagus - White, Canned",752.55,kilograms,Mydo,18/12/2023,16/05/2023,6.83,0.43
+5,Smoked Tongue,381.15,tablespoons,Mydo,10/06/2023,30/01/2022,,8.92
+6,Arctic Char - Fillets,486.16,kilograms,Gabtune,06/07/2022,12/01/2022,5.47,0.89
+7,Crab Meat Claw Pasteurise,23.43,liters,Eazzy,,23/09/2022,1.84,4.27
+8,Liquid Aminios Acid - Braggs,440.77,kilograms,Jaxbean,29/01/2022,02/11/2022,,4.57
+9,Pears - Bartlett,675.51,grams,Bluezoom,,09/07/2022,7.94,1.87
+10,Cactus Pads,381.96,kilograms,Oyoyo,27/09/2023,17/01/2022,7.57,7.67
+11,Pepper - Roasted Red,235.19,tablespoons,Devbug,05/01/2022,,8.18,3.71
+12,Lobster - Tail 6 Oz,785.34,cups,Aimbo,12/09/2023,31/01/2023,9.6,3.27
+13,Breadfruit,787.65,kilograms,Quimba,21/12/2023,06/12/2022,,9.99
+14,Shallots,96.64,tablespoons,Realbridge,12/09/2023,02/08/2023,1.58,0.71
+15,V8 - Vegetable Cocktail,861.57,milliliters,Skipstorm,,28/10/2023,9.67,
+16,"Lentils - Red, Dry",619.24,tablespoons,Wordtune,,30/03/2023,5.69,9.91
+17,Cookie Choc,672.28,tablespoons,Browseblab,17/03/2023,18/12/2023,2.08,4.54
+18,Wine - Mondavi Coastal Private,127.72,tablespoons,Ntags,06/04/2023,11/10/2022,7.18,8.54
+19,Veal Inside - Provimi,506.34,tablespoons,Browsezoom,28/04/2023,24/07/2022,7.91,0.99
+20,Beans - Yellow,255.19,teaspoons,Rhynoodle,19/09/2023,29/03/2022,1.85,
+21,"Wine - Cahors Ac 2000, Clos",646.47,tablespoons,Skyba,23/01/2022,07/04/2023,3.04,5.72
+22,Scallops 60/80 Iqf,42.61,kilograms,Avavee,29/10/2022,29/04/2023,3.3,
+23,Syrup - Monin - Granny Smith,892.49,cups,Dabtype,14/05/2023,10/10/2023,,7.58
+24,Yogurt - French Vanilla,295.7,teaspoons,Wordtune,10/02/2022,13/01/2022,1.51,5.25
+25,Lighter - Bbq,795.81,milliliters,Aivee,14/09/2022,03/09/2023,,4.43
+26,Wine - Vovray Sec Domaine Huet,795.39,milliliters,Gabcube,,21/09/2023,9.08,2.8
+27,Wine - Rubyport,625.86,cups,Quinu,23/10/2022,01/01/2022,7.35,2.09
+28,"Tart Shells - Savory, 4",575.26,liters,Skimia,16/06/2023,31/05/2022,,
+29,Bread Bowl Plain,482.42,milliliters,Quinu,28/03/2023,21/09/2023,,4.58
+30,Water - Aquafina Vitamin,57.38,kilograms,Devpoint,20/12/2022,18/01/2023,8.61,4.25
+31,"Carrots - Mini, Stem On",531.6,liters,Einti,02/08/2023,22/07/2023,,
+32,Nectarines,703.27,tablespoons,Kwilith,06/05/2023,07/11/2023,,0.11
+33,"Cheese - Brie, Triple Creme",73.7,milliliters,Innotype,28/10/2023,07/04/2022,6.31,4.05
+34,Tamarillo,650.71,liters,Flashspan,17/10/2022,15/07/2023,6.79,8.83
+35,"Cherries - Bing, Canned",164.92,teaspoons,Bubblebox,,13/07/2023,1.32,7.35
+36,Basil - Fresh,869.1,tablespoons,Eire,08/11/2023,21/08/2023,6.58,1.41
+37,Energy Drink Bawls,723.19,grams,Topdrive,02/10/2022,11/02/2022,,9.37
+38,Flower - Potmums,623.86,teaspoons,Dynazzy,,,,1.74
+39,Pork - Belly Fresh,325.54,cups,Twitterbridge,,02/11/2023,,7.39
+40,Puree - Blackcurrant,405.65,liters,Avamba,04/09/2022,03/10/2022,2.68,2.77
+41,Country Roll,962.92,cups,Roomm,05/08/2022,13/03/2023,0.73,6.8
+42,"Cheese - Brie,danish",602.34,teaspoons,Gabtune,15/01/2022,13/12/2022,,7.33
+43,Steamers White,148.82,cups,Skidoo,18/01/2023,04/09/2022,6.17,4.58
+44,"Rum - Dark, Bacardi, Black",433.66,liters,Tekfly,,02/01/2022,5.62,6.32
+45,Breakfast Quesadillas,933.6,liters,Npath,10/01/2022,05/11/2022,9.91,1.43
+46,Petit Baguette,644.23,liters,Twiyo,02/03/2023,04/04/2022,8.89,3.04
+47,Water - Spring Water 500ml,226.66,milliliters,Photojam,28/03/2022,19/01/2023,,
+48,Bagel - Everything Presliced,477.82,teaspoons,Rhynyx,27/11/2022,12/05/2023,,4.99
+49,"Juice - Apple, 341 Ml",844.61,kilograms,Flashpoint,29/05/2023,20/06/2023,0.4,5.82
+50,"Lamb - Shoulder, Boneless",804.76,milliliters,Camido,10/07/2023,29/08/2023,,6.92
+51,Garlic Powder,395.03,grams,Kare,,08/03/2023,,2.52
+52,Piping Jelly - All Colours,309.18,grams,Leenti,,08/06/2023,,5.13
+53,Wine - Vovray Sec Domaine Huet,513.42,cups,Flipbug,20/05/2023,11/03/2023,3.74,1.59
+54,Wine - Alicanca Vinho Verde,728.14,tablespoons,Jetwire,13/04/2022,09/08/2023,8.09,2.95
+55,Wine - Magnotta - Pinot Gris Sr,407.87,liters,Feedmix,31/05/2022,27/01/2023,7.43,7.96
+56,"Pork - Loin, Bone - In",504.5,tablespoons,Yamia,,27/01/2023,7.38,4.87
+57,Table Cloth 53x69 White,175.74,cups,Mynte,13/07/2023,20/10/2023,3.81,1.57
+58,Fireball Whisky,345.52,kilograms,Jaxbean,,01/03/2023,9.89,8.42
+59,Cauliflower,531.24,milliliters,Zoomdog,,19/10/2022,0.12,3.33
+60,"Wine - Magnotta - Red, Baco",168.27,milliliters,Voonyx,,23/04/2023,,7.84
+61,Veal Inside - Provimi,266.98,tablespoons,Ailane,28/01/2023,30/05/2022,1.36,4.78
+62,Gherkin,603.18,liters,Brainbox,29/10/2023,01/03/2022,3.67,1.29
+63,Chicken - Whole,114.01,kilograms,Digitube,04/02/2023,30/10/2022,9.37,4.39
+64,Sauce - Fish 25 Ozf Bottle,473.03,cups,Leenti,,06/11/2022,,8.55
+65,"Tart Shells - Sweet, 3",311.44,kilograms,Cogidoo,,01/12/2023,5.07,
+66,Mushroom - Lg - Cello,459.72,milliliters,Meembee,11/04/2022,16/10/2023,8.36,6.38
+67,"Coconut - Creamed, Pure",36.29,liters,Jetpulse,,29/05/2022,6.63,0.17
+68,"Chocolate - Semi Sweet, Calets",639.77,grams,Vinte,17/02/2023,16/02/2022,5.68,4.8
+69,Asparagus - Mexican,34.8,grams,Yodo,24/02/2023,06/02/2023,2.95,5.71
+70,Muffin Mix - Banana Nut,953.26,liters,Realbridge,17/02/2022,01/09/2023,,2.04
+71,Mushroom - Lg - Cello,687.07,milliliters,Jaloo,,15/01/2023,5.31,5.35
+72,"Extract - Vanilla,artificial",718.34,cups,Mycat,07/07/2022,09/05/2022,2.55,5.13
+73,Tarts Assorted,52.95,kilograms,Realblab,25/10/2023,10/10/2022,4.64,
+74,Puree - Mango,799.29,teaspoons,Fanoodle,25/01/2023,,0.42,9.1
+75,Cut Wakame - Hanawakaba,798.61,teaspoons,Browsedrive,03/08/2022,03/06/2022,7.72,6.19
+76,"Cheese - Cheddar, Old White",582.64,kilograms,Abatz,02/12/2023,,5.92,3.13
+77,Beef - Cow Feet Split,708.23,teaspoons,Mydeo,,01/08/2022,,6.42
+78,Jolt Cola - Electric Blue,214.22,kilograms,Tambee,,20/01/2023,,5.89
+79,Bread - Crusty Italian Poly,612.51,milliliters,Yotz,28/11/2022,20/05/2023,7.12,7.52
+80,Soup Campbells,223.87,tablespoons,Jaxbean,19/01/2022,02/05/2023,4.54,4.39
+81,Sprouts - Bean,525.55,teaspoons,Ooba,03/06/2023,04/01/2022,5.65,
+82,Cut Wakame - Hanawakaba,2.4,tablespoons,Skynoodle,,01/05/2022,7.0,7.97
+83,Buffalo - Striploin,972.36,teaspoons,Gevee,16/07/2023,08/05/2023,8.92,8.79
+84,"Soup - Knorr, Country Bean",246.22,kilograms,Flipstorm,15/01/2023,19/02/2022,1.06,4.78
+85,Puree - Pear,371.84,kilograms,Yacero,30/05/2022,18/10/2023,,7.96
+86,Potatoes - Yukon Gold 5 Oz,647.76,liters,Jetwire,29/11/2023,11/04/2023,4.75,
+87,Ice Cream - Life Savers,892.14,tablespoons,InnoZ,,27/08/2023,,6.08
+88,"Carrots - Purple, Organic",308.62,teaspoons,Leexo,07/01/2022,,2.15,1.35
+89,"Juice - Apple, 1.36l",754.28,milliliters,Flashset,,04/02/2022,8.53,9.15
+90,Ice Cream Bar - Drumstick,726.34,milliliters,Jaxspan,,16/11/2023,,7.54
+91,Energy Drink - Redbull 355ml,609.13,tablespoons,Flipbug,22/04/2023,03/09/2022,,3.15
+92,"Pork - Back, Short Cut, Boneless",605.21,kilograms,Youbridge,,22/11/2022,2.88,
+93,Shrimp - Black Tiger 6 - 8,557.04,cups,Kayveo,30/10/2023,15/05/2022,3.26,
+94,"Wine - White, Gewurtzraminer",439.01,liters,Jetwire,,24/07/2022,9.08,2.03
+95,Petit Baguette,951.48,tablespoons,Kamba,19/06/2022,02/06/2022,,6.68
+96,Wine - Fino Tio Pepe Gonzalez,584.6,kilograms,Quimm,,11/12/2022,1.38,2.21
+97,Blueberries - Frozen,62.89,grams,Centidel,,29/06/2022,3.84,0.08
+98,Appetizer - Chicken Satay,714.28,tablespoons,Demizz,02/12/2022,04/10/2022,,0.87
+99,"Lettuce - Romaine, Heart",636.21,liters,Trupe,,21/07/2022,0.28,8.06
+100,Tuna - Fresh,223.12,tablespoons,Voolia,07/09/2023,30/07/2023,,8.5
+101,Cookie - Dough Variety,218.29,teaspoons,Myworks,15/07/2023,07/08/2022,8.44,
+102,"Pepper - Paprika, Spanish",519.51,liters,Twitterwire,,,7.29,4.79
+103,"Tomatoes - Vine Ripe, Red",127.1,grams,Kayveo,14/02/2022,02/06/2022,1.14,4.37
+104,Beans - Yellow,816.72,cups,Jaxspan,11/12/2022,,,0.91
+105,Bread - Multigrain Oval,914.5,grams,Rhycero,01/03/2022,27/08/2023,2.39,1.1
+106,Cheese - Grana Padano,243.71,teaspoons,Topicblab,27/12/2022,28/06/2022,9.88,9.5
+107,Beer - Camerons Cream Ale,993.73,grams,Trudoo,05/10/2022,11/11/2022,,1.54
+108,"Stock - Beef, White",925.87,liters,Gabcube,29/09/2023,28/11/2023,7.64,2.09
+109,Wine - Prosecco Valdobiaddene,702.07,milliliters,Tagpad,09/04/2023,25/04/2023,8.95,5.87
+110,Ice Cream - Super Sandwich,878.29,milliliters,Viva,09/10/2023,19/05/2023,,0.91
+111,Silicone Parch. 16.3x24.3,603.37,tablespoons,Riffpath,25/04/2022,03/09/2022,4.98,9.98
+112,Mace,130.24,teaspoons,Twitterbeat,11/07/2022,01/03/2022,9.24,
+113,Bacardi Breezer - Tropical,183.76,milliliters,Feedspan,30/11/2022,20/08/2022,4.31,0.29
+114,Longos - Lasagna Veg,61.84,kilograms,Realblab,10/02/2022,29/06/2023,7.88,4.98
+115,"Wine - White, French Cross",900.78,liters,JumpXS,,26/05/2023,9.17,5.24
+116,Olive - Spread Tapenade,932.87,kilograms,Dablist,01/08/2022,31/07/2022,4.12,1.68
+117,Pastry - Butterscotch Baked,428.02,liters,Flipbug,17/04/2022,16/10/2023,5.15,2.88
+118,Pastrami,712.8,milliliters,Riffpath,22/05/2023,16/12/2022,5.95,1.3
+119,Cake - Miini Cheesecake Cherry,876.38,milliliters,Browseblab,31/07/2023,28/12/2022,,5.69
+120,"Tomatoes - Diced, Canned",127.82,grams,Rhybox,26/04/2023,04/01/2022,7.56,0.63
+121,Lemon Tarts,883.9,teaspoons,Skimia,,22/07/2023,3.4,6.09
+122,Sour Puss Raspberry,736.4,kilograms,Shufflester,,27/12/2022,1.26,9.39
+123,Honey - Liquid,918.56,grams,Kayveo,01/09/2023,10/05/2023,,
+124,Vinegar - White,347.17,tablespoons,Youtags,08/02/2023,30/09/2022,3.93,8.63
+125,Wine - Chablis J Moreau Et Fils,613.79,kilograms,Mynte,19/11/2022,30/06/2022,0.98,0.84
+126,Eggplant - Regular,799.61,milliliters,Linklinks,,03/09/2022,1.6,2.46
+127,Wine - Wyndham Estate Bin 777,99.75,kilograms,Skalith,,03/07/2023,3.01,7.28
+128,Lettuce - Spring Mix,826.1,kilograms,Skyble,,11/06/2022,9.14,8.13
+129,"Chicken - Leg, Fresh",415.35,grams,Digitube,,12/12/2023,7.31,2.23
+130,"Cookies - Oreo, 4 Pack",982.25,teaspoons,Zoomlounge,22/09/2023,10/01/2022,5.3,4.4
+131,"Radish - Black, Winter, Organic",979.53,milliliters,Layo,26/03/2023,06/10/2022,6.02,3.74
+132,Chocolate Bar - Oh Henry,247.15,teaspoons,Zoombox,18/08/2022,07/10/2023,4.05,5.65
+133,Flower - Commercial Spider,864.83,cups,Ooba,04/12/2022,26/05/2023,,9.7
+134,Sobe - Berry Energy,839.63,grams,Muxo,,06/05/2023,5.17,
+135,Mousse - Banana Chocolate,871.78,milliliters,Reallinks,28/04/2023,23/01/2022,8.71,5.71
+136,Berry Brulee,783.04,kilograms,Edgeify,26/02/2023,21/09/2023,,3.16
+137,Bread - French Baquette,276.01,liters,Plambee,13/04/2023,06/06/2023,,2.89
+138,Sour Puss - Tangerine,938.94,tablespoons,Demimbu,,04/11/2023,,6.81
+139,Wakami Seaweed,343.92,tablespoons,Gigabox,17/08/2022,06/02/2023,7.48,7.09
+140,Cheese - Montery Jack,618.66,kilograms,Vidoo,,12/01/2023,1.93,
+141,Calypso - Lemonade,944.62,liters,Dablist,,07/08/2022,0.52,1.89
+142,Soup Campbells Split Pea And Ham,816.81,liters,Youspan,30/07/2022,25/08/2022,8.81,7.47
+143,"Doilies - 5, Paper",674.23,cups,Voonte,,30/01/2022,,4.07
+144,Pie Pecan,770.44,kilograms,Tagtune,17/11/2022,28/05/2023,7.78,
+145,Appetizer - Seafood Assortment,333.66,kilograms,Youtags,10/02/2022,21/07/2022,2.43,0.65
+146,"Mushroom - Shitake, Fresh",920.32,tablespoons,Fiveclub,29/04/2023,19/08/2023,0.67,3.55
+147,Soup - Campbells Bean Medley,476.14,teaspoons,Dabjam,11/03/2023,30/07/2023,,9.4
+148,"Beans - Turtle, Black, Dry",866.92,cups,Fiveclub,29/01/2022,16/08/2022,8.55,7.21
+149,Cheese - Mozzarella,739.08,grams,Dynazzy,13/08/2023,22/07/2022,,7.92
+150,Breakfast Quesadillas,568.86,cups,Pixope,12/02/2023,27/03/2023,,2.94
+151,Trueblue - Blueberry Cranberry,488.68,kilograms,Leenti,,23/02/2022,6.56,
+152,Herb Du Provence - Primerba,304.89,grams,LiveZ,31/05/2022,21/10/2023,3.83,
+153,Jam - Raspberry,945.11,grams,Brainsphere,29/04/2023,12/09/2022,,0.59
+154,Silicone Paper 16.5x24,331.09,tablespoons,Fivechat,10/07/2022,18/02/2022,,1.84
+155,Chicken - Soup Base,608.77,kilograms,Eazzy,22/10/2022,20/11/2022,5.86,
+156,Veal - Leg,228.81,milliliters,Meezzy,17/04/2023,17/06/2023,4.45,9.63
+157,Rice - Basmati,483.44,tablespoons,Dablist,10/03/2022,10/12/2023,9.4,
+158,Cheese - Comte,852.35,kilograms,Oyoba,10/02/2023,06/07/2023,1.85,6.16
+159,Chicken - Bones,750.36,milliliters,Feedmix,01/09/2023,23/06/2022,,6.93
+160,"Pepper - Chipotle, Canned",129.73,cups,Yodoo,20/07/2023,13/04/2022,,4.27
+161,"Crab - Claws, 26 - 30",478.03,kilograms,Flashpoint,25/01/2022,05/07/2022,4.39,
+162,Cod - Black Whole Fillet,204.75,grams,Eadel,,30/10/2023,,3.95
+163,"Veal - Leg, Provimi - 50 Lb Max",353.76,teaspoons,Centidel,16/03/2023,14/06/2023,1.66,7.52
+164,Water - Spring Water 500ml,714.29,kilograms,Riffwire,19/08/2023,27/03/2022,1.55,
+165,"Cheese - Brie, Cups 125g",423.02,milliliters,Shuffledrive,30/07/2022,08/03/2023,6.31,
+166,Wine - Port Late Bottled Vintage,532.84,tablespoons,Eamia,,20/09/2023,8.89,3.81
+167,"Croissant, Raw - Mini",962.98,grams,Skajo,28/09/2023,18/06/2022,,4.41
+168,Lamb - Bones,146.51,liters,Feedbug,26/02/2023,07/10/2023,,7.97
+169,Durian Fruit,171.02,milliliters,Divanoodle,20/09/2022,13/03/2022,1.38,8.1
+170,Turnip - Wax,375.83,kilograms,Youspan,21/04/2023,29/11/2023,,5.83
+171,Muffin Batt - Blueberry Passion,302.98,grams,Kare,26/10/2022,25/02/2022,9.9,0.53
+172,"Beef - Chuck, Boneless",192.39,cups,Chatterbridge,31/01/2023,21/09/2023,7.74,4.35
+173,Energy Drink Bawls,66.99,cups,Dynava,,17/11/2023,6.03,0.23
+174,Milkettes - 2%,653.37,liters,Zoombeat,01/04/2023,01/08/2022,0.34,0.56
+175,Muffin Batt - Choc Chk,369.1,teaspoons,Zoomlounge,22/03/2022,11/06/2022,4.05,2.07
+176,Squid Ink,570.22,tablespoons,Browsedrive,01/07/2023,16/04/2022,9.74,6.04
+177,Beef - Tender Tips,322.94,grams,Shuffledrive,22/08/2022,25/05/2023,5.55,3.96
+178,Beef - Sushi Flat Iron Steak,616.45,tablespoons,Jatri,06/02/2023,20/06/2023,6.63,5.41
+179,"Beets - Candy Cane, Organic",909.87,liters,Zoombox,,01/01/2023,,0.97
+180,"Wine - Niagara,vqa Reisling",189.22,cups,Buzzster,25/12/2022,28/10/2023,8.58,9.9
+181,Soup - Campbells Broccoli,451.09,tablespoons,Brainsphere,23/07/2023,08/11/2023,3.12,9.12
+182,Crawfish,785.28,liters,Aimbo,,06/01/2022,9.01,4.8
+183,Corn Meal,108.36,tablespoons,Meembee,15/03/2022,11/11/2023,8.52,
+184,Beans - Yellow,997.48,kilograms,Lazzy,,10/01/2022,2.04,0.92
+185,Chips Potato Swt Chilli Sour,582.01,tablespoons,Quinu,11/03/2022,18/06/2022,2.23,4.92
+186,Tomatoes - Heirloom,50.92,grams,Skyndu,23/08/2023,17/01/2022,3.73,
+187,Everfresh Products,272.21,liters,Browsecat,29/03/2023,09/08/2022,8.97,4.06
+188,Piping - Bags Quizna,564.81,liters,Gabtype,16/05/2023,18/12/2022,9.63,7.84
+189,Beer - Upper Canada Lager,615.2,teaspoons,Trupe,23/04/2022,02/01/2022,4.66,4.39
+190,Flour - Strong,460.11,grams,Vitz,07/12/2023,03/11/2022,7.75,9.43
+191,Tuna - Yellowfin,148.04,liters,Thoughtbridge,,15/04/2023,,2.29
+192,Baking Soda,937.3,grams,Oyoloo,,15/04/2023,,7.98
+193,Tomatoes - Hot House,986.82,kilograms,Vipe,21/05/2022,24/04/2022,6.02,2.77
+194,Alize Sunset,984.76,tablespoons,Tavu,04/05/2022,20/07/2023,0.64,6.88
+195,Bread - Pita,555.45,tablespoons,Roomm,26/05/2022,26/08/2023,4.55,6.42
+196,Soup - Campbells Chili Veg,249.11,cups,Twitterbridge,19/02/2022,10/11/2022,3.02,0.83
+197,Bandage - Finger Cots,692.4,grams,Quaxo,,15/01/2023,6.36,8.0
+198,Veal - Slab Bacon,689.87,grams,Flashpoint,18/01/2022,06/06/2023,8.02,
+199,Vol Au Vents,803.2,cups,Brainlounge,,18/10/2023,,3.88
+200,"Chocolate - Milk, Callets",294.35,milliliters,Gabtune,,28/02/2023,2.38,8.97
+201,Smoked Tongue,659.78,grams,Meedoo,30/11/2022,26/09/2022,4.35,
+202,"Chicken - Base, Ultimate",485.37,teaspoons,Youspan,08/05/2023,,7.11,7.51
+203,"Wine - White, Lindemans Bin 95",930.06,grams,Yozio,22/11/2023,25/03/2022,6.27,3.0
+204,Appetizer - Cheese Bites,146.47,kilograms,Mudo,08/05/2023,16/12/2022,,1.56
+205,Cookies - Englishbay Wht,836.51,tablespoons,Yodoo,,20/12/2022,9.07,8.97
+206,Jolt Cola,423.24,kilograms,Zoombeat,,22/05/2023,6.61,6.96
+207,Mushroom - Morel Frozen,114.45,milliliters,Buzzdog,,02/06/2022,4.89,6.53
+208,Soup - Campbells Mac N Cheese,699.27,kilograms,Fliptune,,06/05/2023,6.6,4.44
+209,Lemon Pepper,859.5,kilograms,Voonix,18/09/2022,26/03/2023,,5.5
+210,Corn Meal,92.08,grams,Gabcube,,,3.72,1.93
+211,Bag Clear 10 Lb,838.0,kilograms,Dazzlesphere,04/03/2022,23/01/2022,1.68,9.24
+212,"Coffee - Colombian, Portioned",15.8,teaspoons,Browseblab,20/09/2023,16/09/2022,2.88,
+213,Veal - Heart,966.48,milliliters,Zoozzy,,26/03/2022,,4.86
+214,"Veal - Brisket, Provimi, Bone - In",177.09,cups,Flashpoint,20/04/2022,10/03/2023,5.7,6.8
+215,Mince Meat - Filling,121.17,liters,Avaveo,,22/03/2023,,8.33
+216,"Yogurt - Cherry, 175 Gr",149.56,kilograms,Jamia,22/06/2022,08/03/2023,0.72,2.7
+217,Beer - Creemore,1.01,milliliters,Mudo,,04/07/2022,,1.38
+218,Milk - Buttermilk,488.73,liters,Feedfish,15/05/2023,03/08/2023,5.34,2.11
+219,Crab - Meat Combo,537.7,cups,Rhyzio,11/03/2023,08/12/2022,5.12,1.33
+220,Tomatoes - Grape,471.92,kilograms,Photobean,19/10/2023,18/02/2023,7.43,
+221,Bagelers - Cinn / Brown Sugar,644.46,milliliters,Aimbo,05/02/2022,11/04/2023,,9.3
+222,Crackers - Melba Toast,394.23,liters,Jayo,14/02/2022,30/04/2022,,2.71
+223,Cake - French Pear Tart,846.12,cups,Oozz,13/03/2023,16/01/2023,9.74,1.12
+224,Turnip - Mini,257.7,cups,Eimbee,,18/05/2023,3.97,1.34
+225,Longos - Cheese Tortellini,639.09,teaspoons,Realcube,22/05/2022,20/09/2023,2.36,4.24
+226,Cucumber - Pickling Ontario,62.92,grams,Kwinu,25/07/2023,26/08/2023,3.85,0.41
+227,Pork Ham Prager,681.02,grams,Oba,,03/01/2022,8.56,7.11
+228,Pork - Suckling Pig,407.82,milliliters,Skyndu,,15/07/2022,,5.15
+229,Shopper Bag - S - 4,109.04,grams,Cogidoo,23/03/2022,27/01/2023,9.58,4.55
+230,Flour - Strong Pizza,452.6,grams,Kimia,,11/11/2023,,7.75
+231,"Pineapple - Canned, Rings",559.16,cups,Yacero,20/06/2022,30/09/2022,4.76,0.29
+232,Rabbit - Frozen,149.3,grams,Voonder,01/10/2022,01/05/2023,,
+233,Corn Kernels - Frozen,381.73,teaspoons,Gevee,10/02/2023,03/12/2022,5.91,4.79
+234,Wine - George Duboeuf Rose,734.47,milliliters,Realbuzz,03/04/2022,02/06/2023,6.81,7.42
+235,Lettuce - Boston Bib - Organic,184.87,grams,Babbleblab,23/03/2023,19/09/2023,7.37,3.3
+236,Coffee - 10oz Cup 92961,60.86,milliliters,Meemm,16/03/2022,24/04/2022,3.42,8.09
+237,"Yogurt - Strawberry, 175 Gr",53.64,teaspoons,Mynte,26/08/2022,31/05/2023,3.86,4.74
+238,Muffin Hinge - 211n,950.16,milliliters,Blognation,,14/03/2022,7.63,9.66
+239,Kaffir Lime Leaves,202.51,cups,Buzzster,,17/06/2023,8.98,5.46
+240,Wine - Chenin Blanc K.w.v.,797.93,grams,Livefish,27/08/2022,16/04/2022,7.8,1.32
+241,Pastry - Chocolate Marble Tea,146.61,kilograms,Riffpath,05/09/2023,15/06/2022,3.44,9.56
+242,Wine - Sogrape Mateus Rose,661.8,teaspoons,Buzzster,09/09/2022,11/12/2022,6.45,1.59
+243,Pate - Cognac,844.86,teaspoons,Realblab,03/12/2022,04/07/2022,5.18,6.06
+244,Veal - Slab Bacon,745.07,grams,Flashset,12/10/2023,19/12/2022,,1.17
+245,Cheese - Marble,771.97,kilograms,Skippad,22/11/2022,23/08/2023,5.32,0.4
+246,Mace Ground,361.6,grams,Tagtune,27/07/2023,07/04/2022,7.88,
+247,Sobe - Liz Blizz,494.3,milliliters,Leenti,,11/03/2023,0.07,0.41
+248,"Lobster - Tail, 3 - 4 Oz",286.85,kilograms,Devshare,,05/12/2022,4.7,4.45
+249,Table Cloth 81x81 Colour,213.33,teaspoons,Zooxo,,,,2.74
+250,Apple - Royal Gala,196.97,tablespoons,Linkbuzz,,14/12/2022,9.5,5.87
+251,Rappini - Andy Boy,189.2,liters,Fatz,27/11/2022,26/01/2022,8.64,
+252,Parsley Italian - Fresh,384.66,kilograms,Leenti,,09/02/2023,9.62,5.94
+253,Bread - Rye,792.66,milliliters,Talane,06/03/2023,26/02/2022,,8.47
+254,Pork - Hock And Feet Attached,540.44,grams,Wordpedia,03/11/2022,,9.23,6.28
+255,Wine - Montecillo Rioja Crianza,945.21,liters,Brainsphere,03/09/2022,22/03/2022,,4.13
+256,Dried Cranberries,335.85,teaspoons,Realmix,18/02/2022,29/07/2022,6.6,0.75
+257,Bouillion - Fish,589.0,liters,Twitternation,,11/05/2023,1.63,5.84
+258,Veal - Provimi Inside,393.49,liters,Photobug,31/03/2023,17/08/2022,1.19,6.08
+259,"Vermouth - White, Cinzano",89.04,teaspoons,Roomm,,24/10/2022,3.2,2.83
+260,Chicken - Tenderloin,378.9,kilograms,Tagopia,22/11/2022,24/07/2022,0.23,
+261,Pop - Club Soda Can,808.53,kilograms,InnoZ,30/11/2022,08/06/2022,1.86,5.03
+262,Blackberries,423.04,kilograms,Yamia,20/12/2023,15/03/2022,1.25,5.76
+263,Steampan - Half Size Shallow,942.12,kilograms,Dazzlesphere,25/09/2023,05/09/2022,1.4,7.03
+264,Steamers White,213.85,kilograms,Bubblebox,,,7.6,8.91
+265,Sugar - White Packet,600.69,liters,Trunyx,13/07/2022,03/06/2023,9.69,9.97
+266,Wine - Vidal Icewine Magnotta,201.19,cups,Thoughtbeat,18/09/2022,15/01/2023,3.16,
+267,Asparagus - Frozen,494.78,liters,Aibox,,24/03/2023,7.3,0.6
+268,Bag Clear 10 Lb,688.37,grams,Mymm,30/08/2023,14/02/2023,,3.23
+269,"Wine - White, Lindemans Bin 95",547.37,milliliters,Flipstorm,13/03/2023,18/10/2022,7.68,4.57
+270,Pepper - Jalapeno,299.8,tablespoons,Latz,30/08/2023,17/02/2022,3.78,6.53
+271,"Capon - Breast, Wing On",41.99,kilograms,Jabbersphere,,09/02/2023,7.29,4.12
+272,Orange - Tangerine,719.28,kilograms,Twitterworks,28/04/2022,02/01/2023,1.52,2.58
+273,Versatainer Nc - 9388,472.2,cups,Zoombox,31/12/2022,28/09/2023,7.66,6.15
+274,Cups 10oz Trans,274.0,cups,Mynte,09/11/2023,22/03/2023,2.66,
+275,Olive - Spread Tapenade,214.24,cups,Midel,10/06/2022,05/06/2022,,3.45
+276,"Split Peas - Green, Dry",937.32,liters,Yodoo,17/09/2022,15/11/2023,4.19,9.48
+277,Wine - Maipo Valle Cabernet,995.49,cups,Podcat,01/05/2023,19/03/2023,4.4,0.14
+278,"Yogurt - Raspberry, 175 Gr",455.89,kilograms,Rhyzio,,06/07/2023,8.14,2.33
+279,Crab - Imitation Flakes,422.05,tablespoons,Rhyzio,12/11/2023,,9.99,4.13
+280,Wine - Shiraz South Eastern,891.34,kilograms,Livefish,05/07/2022,,2.77,3.43
+281,"Bread - Dark Rye, Loaf",966.44,grams,Chatterpoint,21/11/2022,24/05/2023,0.76,7.5
+282,Venison - Liver,618.98,cups,Mydeo,,22/08/2023,,
+283,Pepper - Red Bell,935.07,tablespoons,Jaxspan,24/02/2022,17/10/2022,,2.43
+284,"Trout - Rainbow, Frozen",320.86,liters,Dazzlesphere,,30/09/2023,7.39,
+285,Nescafe - Frothy French Vanilla,713.8,grams,Wikibox,,28/07/2023,7.95,4.58
+286,Bread - Onion Focaccia,798.8,teaspoons,Devcast,,20/04/2022,0.81,9.21
+287,Sugar - Splenda Sweetener,895.39,liters,Livetube,,30/05/2022,2.48,4.9
+288,Butter - Pod,47.37,milliliters,Oozz,18/03/2023,,5.95,7.5
+289,"Wine - White, Ej Gallo",858.41,teaspoons,Shuffletag,15/09/2023,26/09/2022,8.1,1.0
+290,Longos - Cheese Tortellini,9.53,teaspoons,Divape,03/09/2023,27/12/2023,7.34,9.13
+291,Chicken - Ground,932.18,grams,Photojam,,01/04/2022,,4.07
+292,"Loaf Pan - 2 Lb, Foil",748.66,grams,Latz,17/05/2022,03/05/2023,4.49,
+293,"Nut - Pistachio, Shelled",150.17,teaspoons,Eire,27/09/2022,04/07/2023,7.14,4.64
+294,Water - San Pellegrino,515.05,kilograms,Lajo,,25/02/2023,2.72,
+295,Lid Tray - 16in Dome,841.29,milliliters,Gabspot,05/09/2022,12/10/2022,,6.48
+296,Fond - Chocolate,391.16,tablespoons,Gabvine,22/07/2022,11/08/2022,,6.69
+297,Roe - White Fish,354.01,grams,Geba,12/07/2023,30/07/2023,,5.75
+298,Egg Patty Fried,800.16,teaspoons,Bubblebox,25/12/2022,11/02/2022,8.29,1.42
+299,Milk - Skim,675.58,liters,Rhyzio,06/11/2022,24/08/2023,9.82,0.91
+300,Garam Marsala,512.47,cups,Fivespan,24/02/2022,04/04/2023,,2.59
+301,Sprite - 355 Ml,450.98,milliliters,Feedbug,29/07/2023,10/12/2023,,5.24
+302,Red Pepper Paste,288.75,kilograms,Realmix,01/03/2022,29/10/2023,9.6,8.88
+303,Lid Coffeecup 12oz D9542b,768.8,grams,Riffwire,05/08/2023,26/10/2022,5.33,5.32
+304,Hipnotiq Liquor,158.04,grams,Thoughtbeat,17/08/2022,10/02/2022,2.68,8.71
+305,Wine - Winzer Krems Gruner,178.85,liters,Tagfeed,30/11/2023,28/08/2022,5.29,
+306,"Pork - Back, Long Cut, Boneless",420.64,kilograms,Wikizz,27/03/2023,18/03/2023,5.02,5.03
+307,Bread - Pumpernickel,734.33,cups,Skipstorm,30/06/2023,08/02/2023,3.17,1.3
+308,Bread Roll Foccacia,278.76,grams,Skajo,29/08/2023,26/12/2023,0.08,7.54
+309,Coffee - Hazelnut Cream,614.43,teaspoons,Centizu,18/09/2023,22/11/2023,8.42,7.75
+310,Soup - Campbells Beef Noodle,392.04,grams,Brainsphere,15/02/2022,06/11/2022,8.4,3.41
+311,"Pasta - Cappellini, Dry",988.74,tablespoons,Camido,,04/07/2022,0.51,9.2
+312,Paste - Black Olive,835.46,grams,Fivechat,18/12/2022,04/01/2022,5.62,9.27
+313,"Rosemary - Primerba, Paste",374.26,tablespoons,Voomm,04/05/2022,10/10/2023,8.27,9.86
+314,Longos - Grilled Veg Sandwiches,51.24,tablespoons,Avavee,,24/05/2022,7.32,
+315,Coffee - Dark Roast,69.17,tablespoons,Topicshots,19/11/2023,30/04/2023,0.73,9.02
+316,Apricots - Halves,116.71,liters,BlogXS,24/12/2022,16/09/2022,,7.32
+317,Jack Daniels,268.38,grams,Edgetag,,29/01/2022,4.08,1.16
+318,Pheasants - Whole,507.39,tablespoons,Wikizz,,16/08/2023,,4.92
+319,Greens Mustard,59.43,milliliters,Vidoo,,25/08/2022,0.59,
+320,Pail With Metal Handle 16l White,430.42,teaspoons,Mynte,,13/04/2022,6.49,8.14
+321,Scallop - St. Jaques,694.82,grams,Centidel,09/07/2022,23/04/2022,,7.91
+322,"Mop Head - Cotton, 24 Oz",56.25,milliliters,Gabvine,26/04/2022,30/12/2023,6.18,3.14
+323,Salmon Steak - Cohoe 8 Oz,222.47,tablespoons,Rhybox,05/06/2023,21/02/2023,0.79,
+324,Melon - Honey Dew,788.37,liters,Thoughtsphere,27/06/2022,26/12/2023,3.27,6.13
+325,Ham - Procutinni,949.62,cups,Thoughtbridge,09/03/2022,25/07/2023,9.81,9.45
+326,Plate Foam Laminated 9in Blk,590.65,liters,Voolia,28/08/2022,18/05/2022,1.09,
+327,Bay Leaf Fresh,541.65,tablespoons,Riffpedia,,25/11/2023,2.14,0.21
+328,Carbonated Water - Strawberry,974.03,kilograms,Divape,18/12/2022,23/12/2022,,2.64
+329,"Nut - Almond, Blanched, Whole",473.84,cups,Jamia,10/08/2022,29/10/2022,2.71,6.37
+330,"Cheese - Brie, Cups 125g",103.63,grams,Edgepulse,,14/10/2022,8.45,0.48
+331,Lemonade - Pineapple Passion,930.66,liters,Pixope,,,1.72,4.45
+332,"Pork - Bacon, Double Smoked",884.03,tablespoons,DabZ,24/11/2023,01/08/2023,,7.99
+333,Pork Ham Prager,548.45,liters,Meemm,,07/04/2023,,8.31
+334,Dill Weed - Dry,976.56,tablespoons,Skajo,21/01/2023,20/03/2022,1.87,5.22
+335,"Lamb - Whole Head Off,nz",578.56,teaspoons,Fivechat,,05/04/2023,8.78,2.01
+336,Table Cloth 54x54 Colour,654.38,tablespoons,Meevee,,28/12/2023,2.75,7.47
+337,Sunflower Seed Raw,269.71,liters,Skimia,27/01/2022,24/01/2022,3.9,8.63
+338,"Doilies - 7, Paper",145.11,tablespoons,Dabshots,19/06/2022,15/08/2022,4.72,0.24
+339,Cookie Dough - Chocolate Chip,693.28,tablespoons,Edgeclub,,14/05/2023,5.12,9.33
+340,Bread - Triangle White,19.08,teaspoons,Roombo,08/08/2022,23/02/2023,2.34,5.52
+341,Orange - Blood,561.8,liters,Skyndu,26/05/2022,26/02/2023,,7.69
+342,Longos - Grilled Veg Sandwiches,3.95,teaspoons,Browsecat,23/04/2022,,4.78,1.14
+343,Muffin - Carrot Individual Wrap,654.36,tablespoons,Edgeify,14/04/2022,05/01/2023,7.78,0.22
+344,Beer - Fruli,734.56,cups,Livepath,10/03/2022,06/02/2022,,4.48
+345,Pork - Backs - Boneless,107.67,tablespoons,Thoughtsphere,09/02/2022,04/11/2022,0.81,9.0
+346,Pepper - Cubanelle,865.47,liters,Dynabox,07/04/2022,15/05/2023,8.22,4.26
+347,Tomatoes - Orange,839.48,kilograms,Wordtune,17/08/2023,08/09/2023,2.23,0.98
+348,Tomato Paste,74.79,tablespoons,Flashset,27/02/2022,29/09/2022,5.28,
+349,Oil - Olive,232.43,tablespoons,Yacero,,01/01/2022,,1.24
+350,Wine - Chateau Bonnet,845.28,tablespoons,Kaymbo,,22/03/2023,4.29,7.49
+351,Carbonated Water - Peach,87.22,tablespoons,Flipstorm,17/09/2023,15/07/2022,9.94,0.71
+352,Bananas,830.45,teaspoons,Devbug,03/07/2023,,1.25,9.12
+353,Tart - Butter Plain Squares,605.72,milliliters,Rooxo,17/01/2023,09/01/2023,0.33,0.53
+354,Milk - Chocolate 250 Ml,809.93,liters,Talane,19/11/2023,16/03/2022,4.34,6.92
+355,Shortbread - Cookie Crumbs,75.11,liters,Blogspan,09/02/2022,27/12/2022,4.94,2.75
+356,Buffalo - Short Rib Fresh,129.23,milliliters,Meejo,,,9.67,1.96
+357,Blackberries,103.68,milliliters,Jayo,07/12/2022,26/09/2022,8.25,1.94
+358,Oven Mitts 17 Inch,355.25,tablespoons,Kare,,24/02/2022,,
+359,Beef - Top Sirloin - Aaa,195.46,teaspoons,Eadel,,23/08/2023,2.9,8.07
+360,Sandwich Wrap,223.22,tablespoons,Babbleset,25/07/2022,06/05/2023,1.36,
+361,"Extract - Vanilla,artificial",866.11,liters,Devpoint,29/05/2023,16/10/2022,8.2,4.12
+362,Milk - Homo,663.14,grams,Zoozzy,17/02/2022,03/02/2022,8.51,4.69
+363,Ecolab - Balanced Fusion,27.7,kilograms,Kwideo,18/01/2023,03/07/2023,3.1,
+364,Cream - 10%,863.59,teaspoons,Eayo,10/06/2022,08/05/2023,,3.45
+365,Southern Comfort,790.73,liters,Gigabox,29/04/2023,18/04/2022,5.16,2.29
+366,"Wine - Niagara,vqa Reisling",90.71,teaspoons,Blogspan,,06/11/2022,7.65,2.3
+367,Bread - Italian Corn Meal Poly,971.11,teaspoons,Zava,15/07/2022,16/11/2023,8.98,5.01
+368,Beer - Paulaner Hefeweisse,612.02,milliliters,Topicshots,,01/07/2023,3.13,8.01
+369,"Juice - Pineapple, 48 Oz",311.27,kilograms,Yombu,,11/06/2022,6.94,5.34
+370,Sprouts - China Rose,524.04,liters,Fatz,03/02/2023,06/10/2023,3.06,7.42
+371,Chicken - Livers,399.73,grams,Edgeify,,23/04/2022,,9.69
+372,"Cheese - Brie, Triple Creme",244.02,liters,Oyonder,20/08/2023,21/05/2023,2.03,5.3
+373,"Chicken - White Meat, No Tender",683.35,grams,Babbleblab,19/11/2022,15/03/2022,,1.04
+374,Plastic Wrap,221.94,kilograms,Minyx,23/04/2022,07/12/2023,5.85,
+375,Eel - Smoked,668.23,tablespoons,Yabox,28/01/2023,03/09/2022,2.5,8.37
+376,Papayas,957.96,liters,Photolist,29/07/2023,21/07/2023,3.24,0.4
+377,Bay Leaf Fresh,425.39,milliliters,Livefish,18/11/2022,04/10/2022,7.52,5.99
+378,"Soup - Clam Chowder, Dry Mix",17.19,cups,Meembee,19/03/2023,08/09/2023,3.88,2.78
+379,Cheese - Pied De Vents,701.87,grams,Riffwire,13/11/2023,08/02/2023,,2.04
+380,Pails With Lids,193.52,liters,Einti,06/04/2023,25/05/2023,2.75,4.42
+381,Mace Ground,663.43,teaspoons,Jetpulse,03/04/2023,18/01/2022,9.94,2.89
+382,Ecolab - Medallion,179.59,liters,Tambee,22/09/2022,23/11/2023,,1.13
+383,Ham - Cooked Bayonne Tinned,700.18,tablespoons,Leexo,15/10/2023,11/02/2022,,9.67
+384,The Pop Shoppe - Lime Rickey,36.42,grams,Flipstorm,,23/11/2022,2.47,6.68
+385,Wine - Cabernet Sauvignon,227.77,teaspoons,Rhybox,02/08/2022,25/06/2022,,2.54
+386,Mushroom - Lg - Cello,444.12,milliliters,Nlounge,,02/11/2022,7.46,8.85
+387,Ice Cream - Chocolate,491.97,grams,Mynte,13/12/2023,17/07/2023,8.66,6.44
+388,Spinach - Baby,692.55,kilograms,Latz,28/05/2023,23/01/2022,6.22,8.61
+389,"Pork - Back, Long Cut, Boneless",99.16,tablespoons,Jabberbean,24/06/2023,12/02/2023,4.47,0.05
+390,Cornstarch,738.47,teaspoons,Cogilith,22/09/2023,24/02/2023,1.83,2.59
+391,Lettuce - Frisee,464.8,liters,Skalith,06/03/2023,10/03/2023,3.95,1.88
+392,Apple - Royal Gala,535.29,kilograms,Skynoodle,,08/11/2023,6.48,2.93
+393,Piping - Bags Quizna,189.08,tablespoons,Meedoo,05/02/2023,09/12/2023,3.87,0.08
+394,Cookie Chocolate Chip With,162.47,kilograms,Quimm,09/02/2023,20/12/2023,8.86,0.62
+395,Icecream - Dibs,926.59,milliliters,Thoughtsphere,,10/12/2023,4.82,2.83
+396,Cornstarch,541.47,kilograms,Jabberbean,26/10/2022,12/05/2022,,8.84
+397,Mustard - Dijon,781.83,tablespoons,Katz,,31/07/2023,4.86,5.17
+398,Squid - U - 10 Thailand,767.7,milliliters,Topicblab,,22/05/2023,,4.51
+399,Sauce - Mint,861.28,kilograms,Teklist,10/03/2022,,4.78,
+400,"Lemonade - Island Tea, 591 Ml",434.25,tablespoons,Dabtype,12/04/2023,23/06/2023,0.68,
+401,Scallops - 10/20,539.25,tablespoons,Realbridge,27/10/2022,11/08/2022,7.31,7.9
+402,True - Vue Containers,362.21,teaspoons,Cogidoo,,05/04/2023,0.81,3.27
+403,Ham - Black Forest,897.12,tablespoons,Livefish,,24/01/2022,5.8,6.95
+404,Marjoram - Fresh,295.36,milliliters,Oba,,,8.06,6.95
+405,"Pasta - Rotini, Dry",118.05,teaspoons,Eare,,,9.43,5.6
+406,Muffin Mix - Carrot,558.59,kilograms,Kwilith,,17/07/2022,1.83,2.81
+407,Wine - Clavet Saint Emilion,943.53,kilograms,Vidoo,30/06/2023,19/01/2022,4.95,0.56
+408,Halibut - Steaks,10.62,milliliters,Zoonder,01/12/2023,19/04/2023,9.12,9.47
+409,Cheese Cloth,368.23,liters,Eamia,13/07/2022,,4.01,
+410,Zucchini - Yellow,814.58,milliliters,Riffpath,17/05/2023,25/12/2023,9.61,6.5
+411,Beer - Pilsner Urquell,602.08,teaspoons,Skibox,08/11/2022,27/09/2022,,6.62
+412,"Pasta - Penne Primavera, Single",276.71,kilograms,Camido,03/12/2022,02/09/2023,,4.7
+413,Lobster - Base,323.62,grams,Leenti,21/02/2023,29/12/2022,6.58,
+414,Blueberries - Frozen,734.0,grams,Twiyo,11/05/2023,25/07/2023,9.06,7.57
+415,Wine - Hardys Bankside Shiraz,960.93,milliliters,Blogpad,,12/06/2023,,3.53
+416,"Rum - Cream, Amarula",288.6,tablespoons,Browsedrive,12/11/2023,25/06/2022,5.84,8.17
+417,Snapple - Iced Tea Peach,389.47,liters,Gabtune,,23/05/2022,7.72,7.78
+418,Wine - Riesling Dr. Pauly,818.69,cups,Leexo,20/11/2022,12/12/2023,9.4,1.96
+419,Quail - Jumbo Boneless,620.38,tablespoons,Yozio,20/09/2023,30/06/2022,9.9,5.14
+420,Flax Seed,943.78,cups,Photobug,24/10/2023,08/02/2022,2.28,1.46
+421,"Cookies - Oreo, 4 Pack",527.47,milliliters,Twitterbridge,12/10/2022,02/09/2022,5.09,7.79
+422,"Pepper - Paprika, Hungarian",982.06,tablespoons,Jamia,20/09/2022,24/06/2022,5.22,5.84
+423,Tomatoes Tear Drop Yellow,777.26,kilograms,Thoughtblab,24/04/2023,12/09/2023,,7.83
+424,The Pop Shoppe - Lime Rickey,166.89,kilograms,Quamba,29/11/2022,29/12/2022,9.27,1.14
+425,Momiji Oroshi Chili Sauce,724.2,grams,Jabbersphere,09/01/2022,23/02/2022,2.28,7.62
+426,Beef - Montreal Smoked Brisket,94.72,tablespoons,Quinu,09/03/2023,19/10/2022,,1.58
+427,Bread - Rye,7.42,teaspoons,Jayo,,19/10/2023,5.56,0.29
+428,Gherkin - Sour,503.52,grams,Meembee,03/12/2022,10/05/2022,,8.97
+429,Bread Sour Rolls,400.76,milliliters,Mymm,18/09/2023,04/03/2022,1.06,4.5
+430,Wine - Ej Gallo Sonoma,869.81,cups,Edgewire,18/08/2023,01/11/2022,8.59,1.78
+431,Nantucket - 518ml,838.09,grams,Browsecat,07/05/2022,18/09/2023,7.37,3.97
+432,Dry Ice,179.4,milliliters,Jaxnation,21/11/2023,30/04/2023,,9.16
+433,Food Colouring - Pink,494.61,milliliters,Eadel,,25/08/2022,,3.87
+434,Cheese - Mozzarella,222.29,cups,Kwideo,21/02/2022,23/11/2023,3.46,7.26
+435,Wine - Penfolds Koonuga Hill,267.33,teaspoons,Photospace,,28/06/2023,8.92,3.53
+436,Soup - Cream Of Broccoli,239.59,liters,Cogidoo,11/08/2023,23/03/2023,5.05,
+437,Squash - Guords,867.85,kilograms,Gevee,,,7.25,7.31
+438,Oxtail - Cut,391.76,kilograms,Livetube,,15/04/2022,,2.89
+439,Mushroom - Porcini Frozen,260.18,kilograms,Flashpoint,,26/06/2022,,5.8
+440,"Tomatoes - Plum, Canned",589.45,teaspoons,Vimbo,26/07/2023,26/11/2023,3.96,
+441,Soup Campbells,707.08,teaspoons,Mynte,24/02/2022,05/01/2022,2.62,3.99
+442,Lettuce - Green Leaf,180.43,teaspoons,Oba,,20/02/2023,4.42,8.84
+443,Liquid Aminios Acid - Braggs,913.15,milliliters,Eayo,03/12/2022,15/05/2022,7.74,
+444,Seaweed Green Sheets,575.89,cups,Vipe,11/04/2023,08/08/2022,,
+445,Pork - Side Ribs,437.76,tablespoons,Devpulse,30/05/2023,18/08/2022,6.57,8.47
+446,Eggplant Italian,157.77,liters,Blognation,,21/09/2023,3.07,4.51
+447,The Pop Shoppe - Grape,189.67,tablespoons,Thoughtstorm,15/12/2023,29/01/2023,7.96,1.22
+448,Wine - Zonnebloem Pinotage,30.15,teaspoons,Fivespan,,29/05/2023,,1.41
+449,Garlic Powder,353.82,liters,Jayo,,23/04/2022,,6.11
+450,Wine - Piper Heidsieck Brut,505.16,kilograms,Skajo,,12/10/2022,9.84,
+451,Flour - Chickpea,966.74,liters,Dablist,28/11/2022,19/07/2023,9.51,4.18
+452,Mussels - Cultivated,256.59,tablespoons,Brainsphere,12/09/2022,24/06/2022,2.07,3.62
+453,Pineapple - Regular,119.91,cups,Centizu,08/10/2022,15/04/2022,5.98,
+454,Saskatoon Berries - Frozen,10.13,tablespoons,Feedmix,09/04/2023,01/02/2023,6.19,2.69
+455,Pastry - French Mini Assorted,159.89,liters,Meevee,,26/07/2022,4.1,7.65
+456,Wasabi Paste,963.12,kilograms,Edgeify,26/07/2022,28/06/2023,0.44,
+457,Pasta - Canelloni,622.95,cups,Quire,01/01/2023,01/12/2022,,3.84
+458,Wine - Cousino Macul Antiguas,339.4,liters,Miboo,,11/12/2023,6.13,4.39
+459,The Pop Shoppe - Lime Rickey,321.42,tablespoons,Brainsphere,,14/07/2022,8.42,7.76
+460,Mangostein,722.5,grams,Browsecat,30/06/2023,07/01/2022,,7.38
+461,Muffin Batt - Choc Chk,938.16,tablespoons,Vidoo,24/06/2023,09/02/2023,,4.15
+462,Flavouring - Orange,295.43,tablespoons,Trudeo,30/08/2023,10/09/2023,,8.79
+463,Sobe - Cranberry Grapefruit,257.43,kilograms,Linklinks,20/02/2022,26/04/2022,8.28,9.65
+464,Beer - Corona,392.38,teaspoons,Dabshots,18/09/2022,08/02/2022,,1.86
+465,Vinegar - Champagne,552.53,milliliters,Latz,11/12/2023,18/03/2022,0.59,1.52
+466,Napkin Colour,719.22,milliliters,Avavee,,03/10/2023,,3.84
+467,Bananas,115.03,liters,Vitz,02/08/2023,16/10/2023,6.84,2.83
+468,Sausage - Chorizo,936.1,milliliters,Devpulse,,18/01/2023,7.57,
+469,Wine - Rioja Campo Viejo,398.48,liters,Zoonoodle,09/01/2023,12/10/2023,9.06,6.72
+470,Egg Patty Fried,756.74,milliliters,Twimbo,17/10/2022,14/03/2023,7.26,6.33
+471,Scallops - 20/30,537.51,milliliters,Jetpulse,19/08/2022,12/12/2022,6.46,2.79
+472,Tomatillo,320.05,teaspoons,Babblestorm,,18/12/2022,3.16,5.5
+473,Oil - Canola,683.1,teaspoons,Twimbo,,03/09/2022,,8.32
+474,Sauce - Hollandaise,86.61,cups,Leexo,09/02/2022,14/09/2023,1.18,9.24
+475,Duck - Legs,578.85,tablespoons,Avamba,,18/01/2022,2.03,6.59
+476,Pecan Raisin - Tarts,914.39,milliliters,Skyble,,,7.48,3.18
+477,V8 - Vegetable Cocktail,628.32,grams,Gabtune,15/06/2023,27/10/2023,8.48,3.75
+478,Foil Cont Round,438.4,teaspoons,Twitterwire,,11/12/2022,8.47,8.67
+479,Transfer Sheets,387.33,grams,Viva,,31/01/2023,5.46,8.65
+480,"Cod - Salted, Boneless",617.03,teaspoons,Twiyo,25/06/2022,28/05/2023,1.77,1.75
+481,"Glass - Wine, Plastic, Clear 5 Oz",306.79,tablespoons,Meezzy,,06/08/2023,8.97,5.14
+482,Cheese Cloth,699.44,cups,Npath,30/09/2023,03/12/2023,,4.17
+483,"Crab - Claws, Snow 16 - 24",202.6,kilograms,Talane,10/04/2023,22/05/2023,4.37,
+484,Juice - Apple Cider,406.19,cups,Linkbridge,13/06/2022,26/03/2022,0.22,7.09
+485,Wine - Pinot Noir Mondavi Coastal,805.0,liters,Mynte,15/05/2022,07/05/2022,3.98,4.83
+486,Sword Pick Asst,591.74,milliliters,Innotype,17/06/2022,12/08/2022,,
+487,"Capon - Breast, Double, Wing On",659.36,tablespoons,Realfire,,25/10/2022,3.57,
+488,Wine - Chenin Blanc K.w.v.,140.43,grams,Twiyo,24/03/2023,06/12/2022,8.77,8.07
+489,Sage - Fresh,894.29,kilograms,Agimba,13/05/2023,20/01/2022,2.92,5.36
+490,Onions - Spanish,714.4,tablespoons,Mybuzz,15/04/2023,02/04/2023,2.13,
+491,Butter - Unsalted,568.35,tablespoons,Thoughtstorm,,31/05/2023,0.36,6.27
+492,"Pepper - Black, Ground",790.53,milliliters,Chatterbridge,,02/02/2022,,6.2
+493,Apple - Granny Smith,956.01,cups,Divavu,05/10/2023,28/05/2022,1.12,7.28
+494,Beans - Yellow,630.79,milliliters,Agimba,31/10/2023,14/11/2023,,6.76
+495,Cheese - Brie,100.75,milliliters,Latz,12/11/2023,08/08/2022,0.09,
+496,Shrimp - Black Tiger 13/15,345.24,teaspoons,Brainbox,,03/02/2022,2.17,
+497,"Pepsi, 355 Ml",377.02,teaspoons,Realbridge,,11/02/2022,6.34,7.35
+498,Table Cloth 72x144 White,688.7,milliliters,Yacero,07/01/2023,07/05/2023,4.12,8.03
+499,Veal - Sweetbread,433.88,kilograms,Meejo,09/02/2022,25/12/2023,0.32,
+500,Salt - Seasoned,764.74,tablespoons,Realcube,09/04/2022,21/11/2022,4.28,6.84
+501,"Brownies - Two Bite, Chocolate",466.24,tablespoons,Yodel,29/12/2023,16/08/2023,5.05,1.24
+502,Apricots - Halves,532.53,teaspoons,Tagfeed,05/06/2023,24/04/2022,0.23,8.97
+503,Oil - Olive Bertolli,880.74,liters,Quatz,28/11/2023,18/08/2022,5.32,1.37
+504,"Cod - Salted, Boneless",493.15,teaspoons,Blognation,20/11/2022,16/07/2023,0.21,8.86
+505,Oil - Avocado,523.46,cups,Quatz,,23/03/2023,5.17,1.13
+506,"Wine - Red, Cabernet Sauvignon",855.95,grams,Photojam,01/11/2022,30/05/2023,,0.65
+507,Trout Rainbow Whole,165.54,milliliters,Youfeed,19/12/2023,25/01/2023,4.72,
+508,"Tart Shells - Sweet, 2",391.28,grams,Centizu,24/07/2023,09/01/2022,6.75,7.62
+509,Nut - Pumpkin Seeds,561.99,teaspoons,Eidel,,21/09/2022,7.56,9.26
+510,Ice Cream - Fudge Bars,950.9,kilograms,Devcast,29/05/2022,25/08/2023,,1.71
+511,Carbonated Water - Wildberry,616.64,grams,Voonte,24/01/2023,10/09/2023,,5.33
+512,Soup - Campbells Mushroom,633.33,milliliters,Jatri,21/01/2022,13/08/2022,0.83,
+513,Sansho Powder,214.34,cups,Photolist,23/06/2023,10/10/2022,4.96,6.52
+514,Kiwano,142.89,tablespoons,Meedoo,,,9.26,3.33
+515,Tomatoes - Grape,723.1,kilograms,Feedspan,,,,
+516,"Pork - Back, Long Cut, Boneless",406.95,cups,Divavu,17/07/2022,08/09/2022,,8.79
+517,"Tart Shells - Barquettes, Savory",934.9,tablespoons,Youspan,,24/06/2022,,1.07
+518,Broom And Broom Rack White,2.59,milliliters,Zooxo,29/10/2023,03/02/2022,6.52,
+519,"Split Peas - Yellow, Dry",1.94,grams,Kwilith,27/03/2022,08/11/2023,5.16,0.84
+520,Buffalo - Short Rib Fresh,247.54,tablespoons,Plajo,22/07/2023,30/06/2023,9.42,8.78
+521,Shrimp - 31/40,115.02,grams,Nlounge,,19/03/2023,5.1,9.28
+522,Crackers - Melba Toast,679.23,liters,Dabtype,09/11/2023,06/05/2023,,9.66
+523,Monkfish Fresh - Skin Off,219.12,kilograms,Kanoodle,,16/09/2022,6.5,1.02
+524,"Loaf Pan - 2 Lb, Foil",314.86,milliliters,Kayveo,04/02/2022,23/01/2023,4.37,4.64
+525,Shrimp - 150 - 250,247.98,tablespoons,Ntags,18/07/2022,10/11/2022,,
+526,Squid - Tubes / Tenticles 10/20,403.84,kilograms,Oyoloo,02/01/2023,30/09/2022,,3.26
+527,Pie Shells 10,395.74,grams,Yamia,15/01/2022,20/02/2023,9.73,8.12
+528,Wine - Coteaux Du Tricastin Ac,505.19,kilograms,Topicshots,,30/01/2023,4.34,0.13
+529,Wine - Magnotta - Cab Sauv,769.56,grams,Kazio,04/10/2023,23/12/2023,7.36,3.45
+530,"Clams - Littleneck, Whole",493.9,kilograms,Zoomlounge,04/03/2023,12/01/2023,6.25,3.73
+531,Table Cloth 53x69 White,380.5,milliliters,Dabtype,11/06/2023,29/04/2022,4.63,7.71
+532,Mix - Cocktail Ice Cream,431.87,liters,Gabvine,,24/09/2023,4.81,7.62
+533,Cream - 35%,309.09,liters,Tagpad,,25/02/2023,9.08,
+534,"Yogurt - Strawberry, 175 Gr",400.64,liters,Thoughtblab,,10/02/2022,2.81,
+535,Filling - Mince Meat,560.91,teaspoons,Oyondu,27/01/2022,13/11/2023,1.23,4.43
+536,"Crush - Grape, 355 Ml",11.7,grams,Twimbo,07/12/2022,01/09/2023,3.8,9.62
+537,"Rum - Light, Captain Morgan",119.29,teaspoons,Wikizz,05/07/2022,13/07/2022,7.74,9.8
+538,Nori Sea Weed - Gold Label,576.09,kilograms,Voolia,21/03/2022,27/12/2022,6.33,2.72
+539,Sauce - Hp,591.54,cups,Oyoyo,21/11/2023,28/11/2022,9.5,0.98
+540,Red Currant Jelly,13.81,milliliters,Wikizz,03/02/2022,06/01/2023,,8.26
+541,Ostrich - Prime Cut,585.6,kilograms,Yambee,24/09/2023,04/10/2023,7.3,
+542,Baking Soda,24.42,grams,Buzzshare,,27/09/2023,6.72,
+543,Pork - Belly Fresh,586.41,cups,Kamba,17/07/2022,13/03/2023,2.57,6.45
+544,Wasabi Powder,760.42,liters,Meeveo,,07/04/2022,,6.16
+545,Squid - U - 10 Thailand,370.35,teaspoons,Vinte,,22/10/2022,7.41,6.56
+546,Puree - Raspberry,50.49,tablespoons,JumpXS,31/01/2022,28/12/2023,,0.36
+547,"Wine - White, Riesling, Henry Of",454.92,grams,Youspan,03/06/2022,24/07/2023,0.97,4.43
+548,Duck - Legs,769.72,liters,Digitube,19/08/2023,20/04/2022,3.9,
+549,Dc Hikiage Hira Huba,100.63,cups,Centidel,03/02/2022,20/11/2023,0.23,4.48
+550,Pie Filling - Pumpkin,627.85,liters,Skalith,28/05/2022,29/03/2023,,4.23
+551,Lime Cordial - Roses,18.53,teaspoons,Yambee,05/02/2023,28/02/2022,5.78,9.6
+552,Tea - Camomele,38.09,grams,Yata,23/05/2023,21/11/2022,,2.91
+553,Capers - Ox Eye Daisy,286.02,milliliters,Viva,02/01/2022,15/11/2022,4.38,5.51
+554,Nut - Pumpkin Seeds,640.11,cups,Lazz,12/08/2023,28/07/2023,1.63,1.81
+555,"Artichokes - Knobless, White",50.93,liters,Mydo,,09/08/2022,6.02,9.85
+556,Almonds Ground Blanched,64.07,liters,Browsecat,,28/06/2022,,7.41
+557,Eel - Smoked,687.87,kilograms,Jaxbean,,14/11/2022,4.29,1.34
+558,"Pasta - Cappellini, Dry",935.77,milliliters,Katz,,16/10/2023,8.2,6.18
+559,Muffin Mix - Carrot,551.35,cups,Tagcat,26/11/2023,23/04/2022,3.69,8.76
+560,Blueberries,958.2,grams,Gabtype,18/12/2022,09/11/2022,,5.9
+561,Squid - U 5,548.32,milliliters,Snaptags,31/07/2023,20/03/2023,6.98,9.95
+562,Orange - Blood,948.75,teaspoons,Shufflebeat,20/06/2022,03/08/2022,5.77,3.69
+563,Kiwi,90.56,cups,Zoozzy,18/11/2023,25/02/2023,9.59,4.78
+564,Wine - Crozes Hermitage E.,945.25,milliliters,Shufflester,,02/07/2023,1.31,8.02
+565,Cheese - Augre Des Champs,906.25,kilograms,Brainverse,18/08/2023,15/07/2023,3.32,2.72
+566,Bread - Wheat Baguette,948.28,teaspoons,Wordtune,25/02/2022,20/12/2022,7.63,3.52
+567,"Noodles - Cellophane, Thin",448.98,liters,Vimbo,13/12/2023,25/04/2023,7.49,5.48
+568,Spring Roll Veg Mini,491.46,teaspoons,Trupe,,20/05/2023,,1.83
+569,Evaporated Milk - Skim,814.34,liters,Meemm,15/09/2023,16/06/2023,3.52,3.39
+570,Lemon Pepper,787.12,kilograms,Twitterwire,17/12/2023,24/10/2023,2.92,9.1
+571,Shrimp - Prawn,986.48,liters,Yakitri,,14/11/2022,2.21,
+572,Lemons,639.0,cups,Oozz,08/09/2022,04/06/2022,,9.56
+573,Wine - Prosecco Valdobiaddene,524.15,kilograms,Skinix,,27/03/2022,,3.79
+574,Cloves - Ground,98.27,cups,Camimbo,01/12/2023,25/12/2022,9.58,2.08
+575,"Tart Shells - Savory, 4",494.13,liters,Jabbertype,,19/08/2023,3.41,
+576,"Lid - Translucent, 3.5 And 6 Oz",476.19,milliliters,Reallinks,05/11/2023,14/09/2022,3.57,9.83
+577,Lobster - Canned Premium,473.15,teaspoons,Geba,02/01/2023,25/03/2023,3.25,5.01
+578,Vacuum Bags 12x16,27.78,cups,Quinu,23/04/2022,12/11/2023,6.01,4.43
+579,Pork - Shoulder,257.94,kilograms,Youbridge,,21/10/2023,3.63,1.93
+580,Puff Pastry - Slab,514.03,cups,Dabfeed,,22/11/2023,1.73,0.73
+581,Sugar - Cubes,189.52,cups,Gigabox,23/09/2023,08/08/2022,7.78,6.24
+582,Melon - Cantaloupe,568.84,cups,Bubblemix,03/09/2023,,2.07,9.54
+583,Kiwi,985.48,milliliters,Skibox,29/01/2023,24/03/2022,2.96,5.07
+584,Higashimaru Usukuchi Soy,742.52,milliliters,Skilith,29/01/2023,26/09/2022,7.42,6.83
+585,Rice - Wild,270.47,liters,Skiptube,19/11/2023,25/01/2022,6.6,3.22
+586,Mahi Mahi,905.49,teaspoons,Topicblab,06/04/2023,10/03/2022,6.07,9.34
+587,Table Cloth 91x91 Colour,47.87,kilograms,Browsezoom,,22/06/2023,8.93,
+588,Island Oasis - Strawberry,920.0,tablespoons,Realfire,22/04/2023,29/08/2022,4.5,7.41
+589,"Soup - Knorr, Country Bean",812.43,cups,Rhyloo,14/09/2023,14/07/2022,8.93,6.82
+590,Potatoes - Mini White 3 Oz,525.41,liters,Zoonoodle,24/10/2023,03/01/2023,,8.34
+591,Seedlings - Clamshell,975.43,milliliters,Gabtype,,30/06/2022,3.62,
+592,Straws - Cocktale,532.0,grams,Tambee,07/03/2022,04/12/2022,7.27,4.14
+593,Pork - Bacon Cooked Slcd,502.91,tablespoons,Browsedrive,,25/07/2023,4.42,6.49
+594,Nori Sea Weed - Gold Label,366.42,cups,Riffwire,02/01/2023,17/03/2022,8.1,3.08
+595,"Beef - Baby, Liver",101.53,cups,Brainlounge,05/01/2023,26/03/2023,7.63,7.79
+596,"Bread - Bagels, Mini",852.18,grams,Aivee,,23/10/2022,1.27,2.68
+597,Cheese - Fontina,664.47,grams,Dablist,04/11/2023,26/02/2023,,5.26
+598,Pastry - Lemon Danish - Mini,283.99,kilograms,Yakidoo,,02/09/2023,9.75,4.78
+599,Chocolate - Unsweetened,994.33,liters,Avamba,10/11/2023,17/04/2023,6.34,2.86
+600,"Beets - Candy Cane, Organic",184.85,liters,Twinte,01/04/2022,02/11/2023,1.29,0.03
+601,Brandy Apricot,412.59,grams,Wordware,,30/06/2022,,9.99
+602,Broom - Push,10.43,cups,Kanoodle,,20/12/2023,4.62,8.53
+603,Lettuce Romaine Chopped,871.94,tablespoons,Talane,21/02/2022,07/02/2023,,2.1
+604,"Lobster - Tail, 3 - 4 Oz",446.66,teaspoons,Dynava,21/03/2022,20/01/2022,0.91,1.98
+605,Chutney Sauce,851.21,tablespoons,Topicshots,29/05/2022,18/01/2023,6.8,9.11
+606,Raspberries - Fresh,159.33,grams,Roomm,,,6.6,7.34
+607,"Turkey - Breast, Smoked",97.66,liters,Edgeify,18/09/2022,02/11/2023,,9.26
+608,Myers Planters Punch,479.96,teaspoons,Oyoloo,07/02/2022,,5.46,
+609,Butter - Pod,332.61,kilograms,Linkbuzz,30/01/2022,,8.92,0.3
+610,Chicken - Bones,806.41,cups,Jayo,06/02/2023,16/06/2022,1.54,9.14
+611,"Split Peas - Green, Dry",614.53,teaspoons,Photobean,,22/01/2023,,8.35
+612,"Hickory Smoke, Liquid",499.82,milliliters,Twinte,03/02/2022,07/06/2022,,6.69
+613,Bread Base - Toscano,961.89,cups,Photospace,09/06/2022,28/03/2022,5.99,7.89
+614,Chicken - Soup Base,757.82,grams,Brightdog,04/08/2022,26/03/2022,5.17,4.63
+615,Transfer Sheets,971.34,milliliters,Youopia,,11/04/2022,,3.98
+616,Appetizer - Sausage Rolls,525.91,grams,Linkbuzz,06/12/2023,14/05/2022,8.92,2.78
+617,Pomello,936.13,cups,Shuffletag,,08/12/2023,0.68,5.31
+618,Bols Melon Liqueur,933.07,teaspoons,Dabvine,,14/04/2022,6.57,6.74
+619,"Olives - Black, Pitted",326.49,cups,Kazio,06/11/2023,28/07/2022,,6.91
+620,"Beans - Black Bean, Dry",499.71,milliliters,Ooba,,24/04/2023,7.11,1.89
+621,Pineapple - Regular,217.43,kilograms,Mymm,,10/01/2022,6.8,9.24
+622,Pastry - Butterscotch Baked,940.06,cups,Gabvine,,08/10/2023,,0.42
+623,Swiss Chard - Red,339.2,kilograms,Tambee,29/04/2023,06/07/2023,3.14,
+624,Flour Pastry Super Fine,103.63,milliliters,Yodo,,11/06/2022,4.72,
+625,"Potatoes - Purple, Organic",977.34,milliliters,Shuffletag,,14/03/2022,5.5,9.84
+626,Tea - Black Currant,983.78,teaspoons,Twitternation,,25/07/2022,2.44,6.24
+627,Muffin Mix - Corn Harvest,257.74,cups,Jabberstorm,15/12/2023,18/07/2023,3.62,8.99
+628,"Beef - Rib Roast, Cap On",550.49,grams,Yodel,24/04/2022,22/06/2023,,9.72
+629,Vacuum Bags 12x16,220.08,milliliters,Youopia,15/01/2022,05/07/2022,6.77,5.08
+630,Beef - Striploin,136.22,tablespoons,Yodel,28/02/2022,29/12/2022,,6.66
+631,Olives - Morracan Dired,306.08,teaspoons,Vidoo,,26/08/2022,9.77,3.44
+632,Bagel - Sesame Seed Presliced,756.51,grams,Tagtune,,30/12/2022,1.63,1.29
+633,Water - Perrier,847.41,tablespoons,Ntags,,,,6.94
+634,Cheese Cheddar Processed,189.56,milliliters,Kwilith,08/03/2022,28/06/2022,,
+635,Muffin Mix - Blueberry,473.37,grams,Twitterbeat,09/06/2022,11/09/2023,0.6,1.15
+636,Beans - Fine,557.67,grams,Rooxo,,20/07/2022,9.7,
+637,Wine - Rubyport,126.6,liters,Edgewire,17/11/2022,04/07/2022,3.23,
+638,Toamtoes 6x7 Select,729.26,liters,Layo,02/05/2022,01/05/2022,,
+639,Cognac - Courvaisier,261.01,tablespoons,Vipe,02/03/2023,26/09/2023,,8.65
+640,Tea - Honey Green Tea,141.5,teaspoons,Voonder,02/12/2023,18/08/2022,9.98,1.75
+641,Lettuce - Spring Mix,821.76,kilograms,Rooxo,27/10/2022,11/06/2023,4.53,4.21
+642,Salt - Kosher,780.35,kilograms,Zoonoodle,,,,3.15
+643,"Nut - Hazelnut, Ground, Natural",62.19,kilograms,Voolith,16/01/2023,13/10/2022,2.14,9.0
+644,Turkey Leg With Drum And Thigh,717.44,milliliters,Kwinu,19/07/2023,04/09/2023,7.19,1.4
+645,Chinese Lemon Pork,259.71,milliliters,Skynoodle,,22/11/2023,2.99,7.79
+646,Yoplait - Strawbrasp Peac,496.87,kilograms,Voomm,30/11/2022,26/09/2022,5.09,1.75
+647,Vaccum Bag 10x13,201.66,milliliters,Demivee,28/01/2022,22/08/2023,3.56,6.95
+648,Lid Tray - 16in Dome,848.26,liters,Linkbridge,31/10/2023,08/01/2023,9.95,0.94
+649,Alize Gold Passion,762.71,cups,Cogibox,,12/06/2023,7.95,
+650,Glass - Juice Clear 5oz 55005,233.92,teaspoons,Trilia,06/11/2023,18/10/2022,5.25,0.84
+651,Transfer Sheets,991.8,milliliters,Brightbean,,10/01/2023,4.23,1.1
+652,Apple - Royal Gala,954.14,cups,Gigashots,06/12/2022,27/07/2022,4.67,1.01
+653,Pork - Backs - Boneless,502.53,grams,Oyoloo,21/03/2023,20/09/2022,7.56,6.4
+654,Lamb Rack Frenched Australian,1.88,grams,Ooba,27/12/2022,13/01/2023,6.5,4.28
+655,Lamb Leg - Bone - In Nz,405.94,milliliters,Twitterlist,27/02/2022,24/04/2023,,2.7
+656,Potatoes - Pei 10 Oz,304.25,kilograms,Wordify,,23/02/2022,,7.07
+657,Cabbage - Savoy,831.19,cups,Trudoo,03/12/2022,04/05/2022,,
+658,Veal - Ground,382.06,kilograms,Realcube,22/07/2022,21/01/2023,5.24,
+659,Bread Country Roll,586.3,milliliters,Thoughtbeat,16/02/2022,08/12/2022,7.49,
+660,Muffin Chocolate Individual Wrap,863.97,teaspoons,Yambee,,16/09/2023,5.17,
+661,Aspic - Clear,929.92,milliliters,Voolia,21/12/2023,11/08/2022,3.13,3.35
+662,Sour Puss Sour Apple,722.4,liters,Skilith,10/12/2022,23/12/2023,,4.89
+663,Bread Sour Rolls,108.0,kilograms,Eayo,,28/08/2023,2.84,3.57
+664,Tomato Paste,142.3,grams,Oyoba,05/01/2023,20/02/2023,5.14,9.28
+665,"Coconut - Creamed, Pure",693.6,liters,Kwilith,17/07/2023,18/11/2023,8.95,8.57
+666,"Bread - Pita, Mini",881.76,tablespoons,Skibox,15/12/2023,16/10/2022,8.86,
+667,French Pastries,591.6,cups,Meembee,28/12/2023,07/05/2023,3.37,2.19
+668,Juice - Orange,846.09,kilograms,Feedbug,14/07/2023,01/05/2023,5.26,7.77
+669,Wine - Spumante Bambino White,718.11,teaspoons,Gigabox,,09/03/2023,9.91,
+670,Pumpkin,434.25,milliliters,Skiba,,07/02/2022,,1.71
+671,Nantucket - Pomegranate Pear,173.37,kilograms,Feednation,,27/02/2023,1.71,5.8
+672,Beer - Muskoka Cream Ale,543.54,tablespoons,Skaboo,07/08/2023,13/07/2022,,0.03
+673,Bar Special K,264.1,cups,Feedspan,19/02/2022,26/05/2023,0.12,9.34
+674,Cocoa Powder - Natural,944.05,milliliters,Feedfire,,23/08/2022,,4.8
+675,Fish - Bones,653.92,grams,Yabox,,14/02/2022,,7.7
+676,Bread Crumbs - Panko,14.26,tablespoons,Cogilith,09/12/2022,07/11/2022,9.89,5.65
+677,Wine - Montecillo Rioja Crianza,912.62,milliliters,Pixonyx,,,4.76,6.19
+678,Truffle Cups - Red,989.09,tablespoons,Twitterwire,28/05/2022,25/10/2023,2.71,0.48
+679,Chips - Potato Jalapeno,2.44,grams,Dynabox,07/05/2022,26/02/2022,2.96,3.05
+680,V8 Splash Strawberry Banana,147.07,teaspoons,Katz,,16/01/2022,5.28,4.6
+681,Beef - Montreal Smoked Brisket,299.31,milliliters,Brainsphere,28/06/2023,25/04/2022,1.12,1.66
+682,"Pork - Bacon,back Peameal",253.88,liters,Realmix,14/12/2023,27/09/2022,,3.29
+683,Beans - Yellow,574.25,teaspoons,Vidoo,30/05/2022,14/04/2023,7.7,7.13
+684,Boogies,616.82,cups,Tagtune,30/07/2022,09/04/2022,7.99,
+685,Wine La Vielle Ferme Cote Du,200.58,liters,Twitternation,,28/07/2023,8.71,5.66
+686,Bok Choy - Baby,795.41,liters,Tazz,,29/05/2022,5.03,0.79
+687,Pastry - Banana Muffin - Mini,725.76,milliliters,Roomm,28/03/2023,22/11/2022,3.71,1.68
+688,Bread - Crusty Italian Poly,424.17,kilograms,Shuffletag,29/01/2022,30/12/2023,9.87,3.53
+689,Tomato - Plum With Basil,350.06,liters,Bubblemix,28/10/2022,02/06/2022,,7.89
+690,Wine - Rioja Campo Viejo,292.14,grams,Thoughtbeat,21/04/2022,27/12/2022,6.19,9.63
+691,The Pop Shoppe - Cream Soda,375.18,kilograms,Cogibox,,18/11/2022,6.99,
+692,Cookie Dough - Peanut Butter,548.56,liters,Izio,15/05/2023,13/02/2022,,2.17
+693,"Yeast - Fresh, Fleischman",956.64,cups,Babbleset,17/02/2022,16/02/2022,,6.98
+694,Sauce - Hoisin,891.18,liters,Brainbox,10/09/2022,05/03/2022,0.11,6.9
+695,Squash - Guords,196.37,tablespoons,Livepath,30/10/2023,23/05/2023,,0.37
+696,"Lid - High Heat, Super Clear",999.17,cups,Izio,05/10/2023,20/04/2022,,4.41
+697,Fireball Whisky,691.36,teaspoons,Camimbo,28/09/2023,12/04/2023,9.56,8.03
+698,Guinea Fowl,87.03,cups,Skyvu,,20/12/2023,5.3,5.19
+699,Tart - Raisin And Pecan,903.8,cups,Brainlounge,29/12/2022,11/01/2022,3.67,7.52
+700,"Turkey - Breast, Boneless Sk On",879.85,milliliters,Podcat,,05/07/2023,3.39,7.83
+701,Table Cloth 81x81 White,189.78,teaspoons,Twitterworks,,04/06/2023,9.7,0.27
+702,Asparagus - Frozen,552.32,cups,Tagfeed,21/10/2023,14/11/2023,6.16,3.13
+703,Squash - Pepper,416.36,kilograms,Rhynyx,,07/07/2023,,7.97
+704,Chicken - Ground,461.97,kilograms,Dabjam,27/01/2022,23/09/2022,,3.44
+705,Puree - Mocha,507.1,tablespoons,Digitube,,29/11/2022,,8.02
+706,"Water - Spring Water, 355 Ml",518.54,liters,Kayveo,11/06/2022,08/02/2022,8.98,5.82
+707,Lamb Tenderloin Nz Fr,416.11,teaspoons,Gigazoom,30/12/2023,09/10/2022,5.61,9.58
+708,Wine - Taylors Reserve,505.84,cups,Devbug,,08/03/2022,,9.04
+709,Wine - Riesling Dr. Pauly,777.62,tablespoons,Browseblab,26/04/2023,07/05/2023,4.57,3.71
+710,Horseradish - Prepared,688.34,milliliters,Zoomcast,12/09/2022,24/04/2022,1.14,9.63
+711,Muffin - Carrot Individual Wrap,260.23,kilograms,Youtags,,18/10/2022,,1.52
+712,"Shrimp - Baby, Cold Water",225.53,cups,LiveZ,23/06/2023,18/06/2022,,7.37
+713,Sponge Cake Mix - Vanilla,46.34,liters,Riffpedia,18/08/2023,10/11/2023,,
+714,Bag Clear 10 Lb,527.27,liters,Gigazoom,13/10/2022,22/04/2022,,
+715,Flavouring - Raspberry,33.66,tablespoons,Centimia,,12/01/2022,9.26,
+716,"Pepper - White, Ground",691.26,teaspoons,Twiyo,11/10/2022,30/03/2023,,
+717,Bread - Hot Dog Buns,934.39,cups,Browsedrive,03/12/2022,31/05/2022,8.8,9.18
+718,Nantuket Peach Orange,219.07,grams,Jabbercube,20/07/2022,11/03/2022,,3.69
+719,Chocolate - Dark Callets,88.89,grams,Skyba,12/05/2022,09/12/2022,7.88,5.17
+720,Island Oasis - Ice Cream Mix,169.49,liters,Zazio,29/01/2022,17/09/2023,,6.22
+721,Flour - Strong,617.02,cups,Fanoodle,10/12/2023,09/08/2023,,1.35
+722,Cheese - Victor Et Berthold,227.26,grams,Skyndu,25/03/2023,04/08/2022,3.2,4.16
+723,Marjoram - Fresh,55.03,tablespoons,Babbleopia,17/03/2023,23/12/2023,3.9,4.06
+724,Nantucket Cranberry Juice,26.4,milliliters,Browsezoom,23/11/2023,09/03/2023,,0.73
+725,Plasticforkblack,441.89,grams,Edgetag,22/11/2023,24/12/2023,,1.39
+726,Cheese - Grie Des Champ,481.58,cups,Browsebug,29/12/2022,20/09/2023,9.77,
+727,Orange Roughy 4/6 Oz,39.45,grams,Zoomdog,,12/02/2022,9.5,0.44
+728,Lemon Tarts,216.63,liters,Thoughtbridge,,21/10/2023,,
+729,"Wine - Magnotta, Merlot Sr Vqa",589.67,milliliters,Livetube,,16/11/2023,5.72,4.13
+730,"Tray - Foam, Square 4 - S",379.05,kilograms,Quaxo,18/01/2023,15/06/2023,7.73,4.22
+731,Chocolate - Feathers,427.03,tablespoons,Mydo,,05/05/2023,4.43,6.45
+732,Snails - Large Canned,873.24,tablespoons,Gabtype,,23/12/2023,6.76,5.72
+733,Wine - Sauvignon Blanc,520.37,kilograms,Livetube,09/04/2023,26/07/2023,,2.35
+734,Cheese - Valancey,111.34,tablespoons,Tanoodle,11/03/2023,18/06/2023,2.02,9.74
+735,Wine - Baron De Rothschild,325.36,liters,Dynabox,16/12/2022,08/02/2023,2.97,3.64
+736,Chips Potato Salt Vinegar 43g,229.22,grams,Realcube,05/05/2023,17/02/2023,,3.27
+737,Extract - Almond,103.06,kilograms,Yakidoo,06/03/2023,25/05/2022,0.75,
+738,Noodles - Steamed Chow Mein,25.27,tablespoons,Bluezoom,02/06/2022,11/07/2022,3.94,2.67
+739,Chocolate - Chips Compound,827.18,cups,Eimbee,05/04/2023,14/06/2022,5.14,5.01
+740,Daves Island Stinger,506.41,liters,Divanoodle,,13/07/2022,,9.33
+741,Aspic - Light,287.91,kilograms,Blogspan,,03/01/2022,6.42,3.25
+742,Table Cloth 91x91 Colour,228.81,liters,Twitterbridge,09/12/2022,04/03/2023,8.04,2.39
+743,Clementine,307.76,grams,Thoughtstorm,26/06/2023,09/01/2023,8.21,
+744,"Pasta - Fettuccine, Dry",338.12,tablespoons,Eadel,03/08/2023,,2.38,7.44
+745,Pate - Peppercorn,360.16,kilograms,Twitterbridge,16/02/2022,29/08/2023,8.81,6.98
+746,Filter - Coffee,671.99,tablespoons,Dynava,,23/11/2022,0.77,5.37
+747,Tomato Puree,832.98,milliliters,Vimbo,07/11/2022,05/12/2023,8.39,8.71
+748,Beef - Short Loin,436.87,tablespoons,Rhyloo,03/11/2023,14/08/2023,9.7,
+749,Steampan - Lid For Half Size,560.01,liters,Zoomcast,27/04/2023,26/06/2023,,0.03
+750,Beer - Sleemans Honey Brown,62.01,tablespoons,Gevee,30/07/2023,16/02/2023,1.71,3.04
+751,"Pasta - Penne, Lisce, Dry",818.72,teaspoons,Skinix,01/08/2022,26/01/2022,2.36,4.88
+752,Clams - Bay,36.55,kilograms,Yombu,,06/08/2023,4.1,0.47
+753,Syrup - Pancake,719.37,teaspoons,Voonder,25/05/2022,20/10/2022,,8.54
+754,Fennel,137.78,kilograms,Camimbo,17/09/2022,,,8.65
+755,Pork - Bacon Cooked Slcd,241.37,liters,Muxo,,14/12/2022,3.63,7.57
+756,Appetizer - Asian Shrimp Roll,815.96,grams,Voolia,,20/11/2022,9.23,7.9
+757,Beef - Sushi Flat Iron Steak,601.2,liters,Youspan,26/08/2022,03/02/2023,,4.88
+758,Kiwi,312.23,milliliters,Feedmix,,09/01/2022,0.56,6.97
+759,"Zucchini - Mini, Green",793.18,grams,Gabvine,,12/06/2022,7.84,3.05
+760,Ice Cream Bar - Hageen Daz To,583.26,teaspoons,Skipstorm,31/03/2022,31/05/2023,,3.33
+761,Strawberries,5.01,cups,Jabbersphere,12/07/2022,26/01/2023,,3.29
+762,Chicken Thigh - Bone Out,373.61,kilograms,Skidoo,06/02/2022,19/04/2022,4.46,8.59
+763,Chocolate Bar - Oh Henry,810.21,kilograms,Oyoba,09/10/2022,01/04/2023,4.58,2.16
+764,Hipnotiq Liquor,137.92,liters,Edgewire,22/09/2023,21/04/2023,5.56,4.19
+765,Jello - Assorted,779.48,cups,Fiveclub,15/04/2022,01/09/2023,,4.11
+766,Beef - Kobe Striploin,264.86,liters,Jayo,31/01/2023,22/10/2022,4.24,2.56
+767,Table Cloth 90x90 Colour,265.11,grams,Gevee,,18/02/2022,0.79,8.88
+768,Rabbit - Whole,920.07,cups,Voonte,30/10/2023,12/01/2023,0.48,3.53
+769,Shiro Miso,12.16,milliliters,Zoomdog,31/05/2023,23/07/2023,5.88,0.98
+770,Syrup - Monin - Blue Curacao,246.15,teaspoons,Yata,04/01/2022,02/10/2023,,6.74
+771,Juice - Propel Sport,832.46,cups,DabZ,12/03/2022,03/10/2022,,1.65
+772,Artichoke - Fresh,33.59,grams,Wikizz,29/01/2022,09/07/2023,1.38,5.38
+773,"Soup - Knorr, French Onion",349.44,kilograms,Photobug,25/12/2022,25/10/2022,4.25,7.95
+774,Versatainer Nc - 8288,742.87,kilograms,Omba,,11/05/2022,7.9,3.49
+775,Bread - Pain Au Liat X12,518.99,kilograms,Livetube,19/03/2022,21/12/2023,2.22,9.91
+776,Chickhen - Chicken Phyllo,822.54,liters,Mynte,,17/03/2023,5.56,1.24
+777,Momiji Oroshi Chili Sauce,855.22,liters,Photospace,10/02/2022,18/09/2023,6.4,4.78
+778,Butter Balls Salted,676.66,teaspoons,Twitterwire,12/02/2023,12/08/2022,7.56,0.43
+779,Lamb Shoulder Boneless Nz,846.76,grams,Tagtune,10/10/2023,05/05/2023,4.9,6.64
+780,"Juice - Clam, 46 Oz",470.12,grams,Jaxspan,09/10/2023,14/12/2023,1.11,2.46
+781,Orange Roughy 4/6 Oz,793.85,milliliters,Eabox,,11/11/2022,0.89,2.2
+782,"Soup - Campbells, Cream Of",496.55,grams,Realbridge,05/08/2023,06/12/2022,7.44,9.36
+783,"Beef - Cooked, Corned",36.21,kilograms,Fivebridge,,29/06/2023,2.85,5.61
+784,Marzipan 50/50,543.89,milliliters,Oloo,07/10/2022,21/02/2023,0.96,6.79
+785,Oil - Coconut,933.36,liters,Vimbo,28/09/2022,28/12/2023,9.71,3.73
+786,True - Vue Containers,185.24,grams,Jamia,27/07/2022,05/07/2022,0.49,
+787,Pastry - Trippleberry Muffin - Mini,459.55,teaspoons,Jamia,28/05/2023,10/09/2022,9.57,4.3
+788,Tea - Green,148.97,tablespoons,Brainbox,13/09/2023,10/02/2022,,7.48
+789,Mushroom - Lg - Cello,207.8,tablespoons,Skajo,,,6.73,1.9
+790,Onions - Pearl,538.84,grams,Twitterworks,19/03/2023,21/11/2022,6.09,6.82
+791,Bread - Triangle White,527.45,teaspoons,Avaveo,,28/09/2022,,9.68
+792,Bar Bran Honey Nut,297.79,milliliters,Topicstorm,,18/10/2023,6.05,0.27
+793,Coconut - Whole,672.35,cups,Yoveo,,31/10/2022,2.72,1.52
+794,Orange - Tangerine,85.49,kilograms,Eidel,,01/09/2022,8.03,7.33
+795,External Supplier,991.82,grams,Brightbean,02/06/2023,24/12/2022,4.38,2.56
+796,Transfer Sheets,491.76,tablespoons,Rhynyx,13/05/2023,18/08/2023,,0.33
+797,"Wine - Red, Metus Rose",106.33,kilograms,Browsecat,13/11/2022,06/05/2023,,
+798,Pate - Peppercorn,185.97,tablespoons,Edgeify,14/11/2022,04/04/2023,,3.39
+799,Fudge - Chocolate Fudge,210.86,cups,Divanoodle,24/03/2022,13/02/2023,1.25,9.56
+800,Muskox - French Rack,394.79,liters,Dynava,,07/09/2023,2.21,1.31
+801,Cheese - Fontina,564.81,cups,Zoomzone,,14/01/2022,9.59,
+802,Pepper - Scotch Bonnet,190.12,liters,Demimbu,20/02/2023,,0.19,3.12
+803,Clam - Cherrystone,118.41,grams,Rooxo,03/07/2023,08/06/2023,2.3,7.4
+804,Lidsoupcont Rp12dn,649.84,teaspoons,Livepath,07/11/2023,10/09/2022,9.64,8.25
+805,"Mushroom - Morels, Dry",393.4,grams,Photobean,27/07/2022,14/02/2022,6.81,5.91
+806,Cheese - Stilton,164.75,tablespoons,Minyx,01/12/2022,10/03/2023,4.87,
+807,Muffin Carrot - Individual,536.72,cups,Tambee,22/04/2022,01/02/2023,9.53,0.94
+808,Wine - Duboeuf Beaujolais,646.22,teaspoons,Mycat,23/05/2022,13/02/2022,5.84,7.0
+809,"Pork - Ham, Virginia",774.76,tablespoons,Yotz,26/08/2022,26/04/2022,3.94,6.14
+810,Pepper - Pablano,743.85,liters,Wikibox,31/08/2023,16/09/2023,2.57,6.81
+811,Bouq All Italian - Primerba,282.87,milliliters,Jazzy,,13/02/2023,,2.47
+812,Nantucket - 518ml,513.38,milliliters,Chatterbridge,14/11/2022,06/07/2022,,6.77
+813,"Artichokes - Knobless, White",769.89,liters,Brainsphere,,21/06/2023,7.92,0.73
+814,Cabbage - Red,295.31,tablespoons,InnoZ,,24/02/2023,0.3,5.6
+815,Sauce - Thousand Island,84.73,grams,Brainsphere,30/06/2022,10/07/2023,,7.18
+816,Carroway Seed,267.07,grams,Voomm,02/06/2022,07/02/2022,,0.26
+817,Galliano,114.17,kilograms,Trunyx,15/01/2022,19/01/2022,0.23,3.18
+818,"Pork - Butt, Boneless",351.67,milliliters,Yakijo,,30/12/2022,1.81,1.85
+819,Sausage - Breakfast,125.86,liters,Jaxnation,13/04/2023,19/10/2023,1.41,
+820,Pork Ham Prager,869.35,cups,Edgeblab,12/06/2022,13/07/2023,,6.54
+821,Tea - Orange Pekoe,444.76,liters,Minyx,11/01/2022,19/07/2022,2.67,3.43
+822,"Tart Shells - Sweet, 4",318.97,grams,Zoombox,05/11/2023,19/12/2023,9.93,5.65
+823,Dill Weed - Fresh,929.39,tablespoons,Feedbug,26/04/2022,11/03/2023,9.88,8.8
+824,Cheese - Blue,874.39,grams,DabZ,,20/06/2023,9.85,9.8
+825,Pail For Lid 1537,566.21,milliliters,Mynte,,05/12/2023,,3.63
+826,Flower - Dish Garden,485.17,cups,Fanoodle,09/10/2022,05/01/2022,,4.36
+827,Creamers - 10%,629.34,milliliters,Youtags,,05/06/2023,9.02,8.97
+828,"Pepper - Black, Ground",77.64,milliliters,Shufflebeat,25/02/2023,06/01/2023,8.54,
+829,"Appetizer - Mini Egg Roll, Shrimp",418.91,cups,Aibox,22/12/2022,,,7.35
+830,Rosemary - Dry,156.08,cups,Kimia,15/10/2023,06/10/2022,8.11,7.84
+831,V8 Splash Strawberry Banana,175.42,teaspoons,Mynte,28/03/2023,14/12/2023,,3.55
+832,"Pasta - Penne, Rigate, Dry",721.94,cups,Trupe,15/05/2022,18/08/2023,9.03,7.74
+833,Veal - Inside,714.89,teaspoons,Vinder,02/08/2022,25/09/2023,,4.77
+834,Parsley - Fresh,936.91,tablespoons,Skyndu,,11/07/2022,2.69,6.46
+835,Wine - Masi Valpolocell,227.88,grams,Mynte,01/04/2022,16/03/2023,2.45,
+836,Veal - Provimi Inside,824.62,tablespoons,Kwideo,12/07/2022,08/12/2022,,3.93
+837,"Ice - Clear, 300 Lb For Carving",340.32,cups,Quire,26/06/2023,11/03/2023,9.46,0.75
+838,Dates,741.08,kilograms,Kanoodle,17/08/2023,24/01/2023,1.81,9.68
+839,Curry Paste - Madras,600.45,milliliters,Kare,27/05/2023,21/12/2022,0.11,
+840,Turnip - Mini,713.01,grams,Wikibox,28/11/2023,04/07/2023,,8.21
+841,Wooden Mop Handle,732.92,milliliters,Skidoo,,02/10/2022,0.89,4.19
+842,Venison - Liver,62.18,milliliters,Jaxworks,02/08/2023,15/11/2023,0.55,9.46
+843,"Gin - Gilbeys London, Dry",880.73,milliliters,Chatterbridge,,05/12/2022,4.09,1.65
+844,Arizona - Plum Green Tea,812.44,kilograms,Flashpoint,,,,
+845,Pastry - Trippleberry Muffin - Mini,705.27,liters,Meetz,12/02/2023,06/12/2022,7.91,3.47
+846,Gatorade - Lemon Lime,483.3,tablespoons,Kwinu,26/03/2023,22/08/2023,3.93,0.08
+847,Extract - Rum,973.71,milliliters,Skyvu,01/11/2022,20/02/2023,,
+848,Rice Wine - Aji Mirin,820.49,liters,Skiptube,,20/08/2023,,8.31
+849,"Beef - Ox Tail, Frozen",901.29,grams,Skyba,,20/03/2022,7.18,6.37
+850,"Oil - Truffle, White",793.26,milliliters,BlogXS,23/06/2022,10/05/2023,0.68,1.49
+851,Lettuce - Romaine,906.69,milliliters,Riffwire,,03/08/2023,7.62,6.28
+852,Puree - Kiwi,505.61,liters,Rhynoodle,27/08/2023,17/01/2022,,6.05
+853,Chicken - Ground,106.15,liters,Innotype,,,,0.52
+854,Wine - Chardonnay South,22.13,liters,Livetube,02/09/2023,30/03/2022,,
+855,Cabbage - Green,894.25,cups,Kazio,,04/01/2023,4.92,9.89
+856,Ecolab - Medallion,805.77,teaspoons,Gabcube,18/03/2022,10/04/2023,,9.76
+857,Dc Hikiage Hira Huba,668.35,tablespoons,Realcube,22/12/2022,27/04/2022,1.88,3.8
+858,Uniform Linen Charge,179.75,liters,Plajo,04/11/2023,,7.31,
+859,"Pasta - Penne, Rigate, Dry",144.15,tablespoons,Babbleblab,26/05/2023,03/12/2023,5.78,4.75
+860,Bread - Olive Dinner Roll,188.03,grams,Topicstorm,,06/10/2023,8.63,6.67
+861,Cheese - Cottage Cheese,909.7,kilograms,Zoonoodle,21/08/2022,05/01/2022,1.61,9.89
+862,Pork - European Side Bacon,864.93,liters,Zoomdog,27/03/2022,09/08/2023,8.77,4.01
+863,"Croissant, Raw - Mini",233.67,teaspoons,Pixope,12/09/2023,25/06/2022,7.19,7.22
+864,Pork - Caul Fat,218.71,teaspoons,Oyope,12/01/2023,,,3.97
+865,Olives - Stuffed,97.22,kilograms,Ntag,26/05/2022,11/06/2023,,
+866,Mince Meat - Filling,411.89,grams,Innotype,08/05/2022,,7.1,6.09
+867,"Tart Shells - Savory, 4",980.65,tablespoons,Zooveo,,15/05/2022,4.16,
+868,Seabream Whole Farmed,368.72,liters,Topicblab,07/09/2022,02/07/2023,4.28,4.25
+869,"Yogurt - Peach, 175 Gr",740.18,milliliters,Eamia,,21/07/2023,,6.78
+870,"Sauce - Black Current, Dry Mix",632.58,liters,Brainbox,19/03/2022,07/01/2022,1.71,5.12
+871,Wine - Balbach Riverside,798.67,grams,Tazz,,20/11/2023,1.75,1.13
+872,Wine - Coteaux Du Tricastin Ac,624.28,liters,Yombu,,09/02/2022,,5.4
+873,Chinese Foods - Chicken,514.16,milliliters,Gigashots,,09/05/2023,,6.66
+874,Beer - Paulaner Hefeweisse,16.06,liters,Gigabox,17/11/2022,07/03/2023,5.67,0.2
+875,Ginger - Fresh,476.17,cups,Reallinks,,31/01/2023,7.23,8.76
+876,"Pasta - Cannelloni, Sheets, Fresh",65.9,teaspoons,Twitternation,09/02/2022,11/07/2023,,1.5
+877,Beef - Ground Medium,285.21,teaspoons,Blognation,21/08/2023,30/04/2023,2.88,
+878,Liqueur - Melon,818.32,grams,Mydo,13/11/2023,05/07/2022,0.31,5.98
+879,Cranberries - Fresh,426.28,grams,Photofeed,08/04/2022,14/11/2023,,3.48
+880,Garbage Bags - Black,58.0,milliliters,Linklinks,,01/08/2022,,3.64
+881,"Syrup - Golden, Lyles",886.25,grams,Divavu,,07/08/2023,2.4,
+882,"Lentils - Green, Dry",804.01,teaspoons,Skibox,06/10/2022,18/04/2023,6.89,6.05
+883,Soap - Hand Soap,471.65,kilograms,Skilith,,18/11/2023,,3.92
+884,Salami - Genova,850.08,tablespoons,Skipstorm,13/03/2023,05/03/2022,7.29,9.99
+885,"Tomatoes - Cherry, Yellow",735.14,liters,Livefish,,10/12/2023,7.1,
+886,Plaintain,95.6,tablespoons,Tagtune,10/09/2023,18/05/2022,3.53,5.23
+887,Sobe - Cranberry Grapefruit,493.34,grams,Ntag,20/12/2022,30/08/2022,3.82,6.07
+888,Garlic - Elephant,196.97,kilograms,Meevee,01/05/2022,12/05/2023,8.77,1.65
+889,Veal - Leg,461.15,grams,Youbridge,,17/12/2022,3.37,1.91
+890,Soup Campbells - Italian Wedding,421.05,teaspoons,Zooveo,13/01/2022,17/01/2023,9.14,1.67
+891,V8 Splash Strawberry Banana,735.86,kilograms,Jaxbean,,24/04/2022,6.23,
+892,"Soup - Campbells, Creamy",294.6,liters,Browsedrive,,21/05/2023,,5.12
+893,"Ecolab - Orange Frc, Cleaner",128.66,kilograms,Twinder,15/09/2022,30/06/2023,2.29,8.16
+894,"Cheese - Cheddar, Mild",817.49,teaspoons,Ooba,10/03/2022,04/08/2022,2.83,3.28
+895,Crab - Imitation Flakes,592.23,cups,Mita,23/11/2022,14/09/2022,0.33,
+896,Lettuce - Lolla Rosa,68.33,cups,Edgeify,07/10/2022,27/05/2022,,4.3
+897,Mushroom - Chanterelle Frozen,436.09,liters,Skynoodle,,07/06/2022,,6.22
+898,"Tray - Foam, Square 4 - S",385.01,kilograms,Riffpath,04/12/2022,15/09/2022,4.57,9.95
+899,Gatorade - Cool Blue Raspberry,664.2,cups,Trupe,,15/01/2023,9.7,8.08
+900,"Mushroom - Porcini, Dry",470.19,cups,Tambee,17/09/2023,19/12/2022,1.33,2.63
+901,"Basil - Dry, Rubbed",797.84,tablespoons,Jayo,,20/06/2023,5.66,6.35
+902,Muffin Puck Ww Carrot,748.53,milliliters,Aivee,,23/12/2023,7.3,3.27
+903,Appetiser - Bought,116.2,cups,Topiczoom,30/10/2022,09/06/2023,1.88,5.49
+904,Lid Tray - 16in Dome,503.43,teaspoons,Izio,17/03/2022,09/03/2022,2.77,0.5
+905,Knife Plastic - White,968.17,teaspoons,Linktype,,08/11/2023,8.01,7.07
+906,Sour Puss Raspberry,325.58,teaspoons,Buzzbean,12/08/2022,01/11/2023,,5.12
+907,Soup Bowl Clear 8oz92008,498.42,grams,Mycat,10/04/2022,,0.17,3.33
+908,"Cheese - Boursin, Garlic / Herbs",423.71,kilograms,Oodoo,05/08/2023,27/01/2022,3.8,3.82
+909,Longos - Lasagna Veg,0.65,teaspoons,Avamm,14/09/2022,06/04/2023,8.91,9.16
+910,Lady Fingers,548.29,cups,Voonte,,22/03/2022,,5.02
+911,Sauce - Balsamic Viniagrette,580.74,grams,Aimbu,,17/12/2022,6.56,0.26
+912,Tart - Raisin And Pecan,901.14,milliliters,Tagcat,,05/09/2023,1.65,0.6
+913,Juice - Ocean Spray Kiwi,257.8,teaspoons,Tekfly,16/06/2022,14/11/2023,3.86,3.59
+914,Turkey - Ground. Lean,710.01,cups,Browsetype,22/03/2022,20/02/2022,9.49,4.22
+915,"Wine - Red, Black Opal Shiraz",634.45,kilograms,Zazio,05/08/2022,28/02/2023,7.85,3.22
+916,Grouper - Fresh,371.69,kilograms,Jetwire,22/03/2023,24/07/2023,3.82,4.06
+917,Flour - Rye,175.57,cups,Yacero,,,6.89,5.97
+918,Sprouts - China Rose,541.07,cups,Edgeblab,03/06/2023,19/07/2022,9.02,4.16
+919,Lettuce - Iceberg,451.09,tablespoons,Kare,,16/08/2023,5.75,9.49
+920,Red Cod Fillets - 225g,759.06,teaspoons,Centimia,,23/11/2022,7.15,
+921,Lobster - Canned Premium,594.17,teaspoons,Oodoo,16/10/2023,17/05/2023,,1.91
+922,Eggs - Extra Large,614.49,milliliters,Centimia,06/01/2023,11/05/2023,1.44,6.73
+923,Cheese - Parmesan Grated,730.3,cups,Realpoint,03/11/2023,15/02/2022,0.43,4.86
+924,Lotus Leaves,27.52,milliliters,Tazzy,,,4.64,5.87
+925,Lettuce - Romaine,15.97,grams,Shuffletag,04/09/2023,03/05/2022,2.75,7.87
+926,Calvados - Boulard,138.73,grams,Jabbercube,03/11/2023,07/08/2023,9.49,8.38
+927,Sour Puss - Tangerine,223.27,tablespoons,Dabfeed,27/07/2022,28/06/2022,6.46,5.69
+928,Apples - Spartan,260.86,teaspoons,Viva,,25/12/2022,,4.84
+929,"Wine - Cahors Ac 2000, Clos",789.7,grams,InnoZ,20/01/2022,30/01/2023,,0.13
+930,"Wine - Red, Wolf Blass, Yellow",877.69,tablespoons,Quamba,01/06/2023,30/01/2023,7.84,1.78
+931,Baking Soda,422.05,milliliters,Fivechat,,11/11/2022,8.22,0.98
+932,"Wine - Red, Cabernet Sauvignon",695.19,milliliters,Fanoodle,,07/03/2022,2.56,0.65
+933,Venison - Striploin,432.09,teaspoons,Oloo,05/07/2022,15/02/2022,,9.81
+934,"Pepper - Chipotle, Canned",644.52,grams,Photolist,15/04/2023,16/09/2022,6.53,2.83
+935,"Shrimp - Baby, Cold Water",67.62,teaspoons,Trupe,20/06/2023,20/04/2022,8.68,3.01
+936,Sauce - Demi Glace,233.86,kilograms,Zoombox,27/10/2023,22/11/2023,5.98,6.11
+937,Marjoram - Fresh,319.97,milliliters,Fiveclub,,11/09/2023,3.85,9.05
+938,Pomegranates,223.58,cups,Photobug,,28/12/2023,4.88,9.56
+939,Lotus Leaves,884.82,cups,Photobean,31/05/2022,11/07/2023,1.92,0.32
+940,Grenadillo,305.32,teaspoons,Bubblemix,15/06/2023,25/01/2022,8.44,5.77
+941,Flour - Teff,500.6,teaspoons,Cogibox,,,,6.16
+942,Pepper - Red Bell,781.68,liters,Eare,06/10/2023,19/06/2023,4.03,0.52
+943,Appetizer - Assorted Box,699.12,cups,Wikido,01/04/2023,27/09/2023,,1.24
+944,Tea Peppermint,567.15,milliliters,Cogibox,21/07/2023,28/02/2022,,2.99
+945,Oil - Cooking Spray,95.73,milliliters,Tazz,26/12/2022,15/06/2022,9.92,
+946,Pork - Hock And Feet Attached,242.15,liters,Zava,03/12/2022,16/04/2023,,
+947,Gatorade - Lemon Lime,30.96,grams,Youopia,02/12/2023,13/11/2023,9.81,2.05
+948,Beef - Tenderloin Tails,589.1,kilograms,Trudoo,,30/07/2023,,5.16
+949,Strawberries,247.03,teaspoons,Flipstorm,21/01/2023,05/10/2023,,6.97
+950,Fruit Salad Deluxe,366.73,liters,Nlounge,,24/06/2023,1.39,6.75
+951,Sauce - Salsa,974.48,cups,Blognation,28/01/2022,21/11/2023,6.92,4.88
+952,Beans - Wax,351.97,milliliters,Geba,21/12/2023,04/06/2023,9.53,0.9
+953,"Chicken - Leg, Boneless",216.58,grams,Omba,,14/06/2022,5.67,8.91
+954,Chicken Breast Wing On,900.66,milliliters,Skynoodle,,25/09/2022,,7.65
+955,"Bread - White, Unsliced",68.0,teaspoons,Bubblebox,,19/03/2022,3.65,
+956,Basil - Thai,342.79,grams,Katz,,08/10/2023,,6.99
+957,"Pepper - Chipotle, Canned",204.61,liters,Fiveclub,,14/10/2022,1.84,9.8
+958,Pumpkin,525.18,tablespoons,Yakijo,30/09/2023,22/12/2022,6.18,7.55
+959,Kellogs All Bran Bars,947.08,kilograms,Roomm,05/03/2023,,2.9,
+960,Muffin Orange Individual,927.6,cups,Plambee,22/11/2022,20/11/2023,7.44,2.33
+961,Cheese - Provolone,515.38,teaspoons,Dabtype,02/09/2022,15/12/2023,0.67,
+962,Wine - Port Late Bottled Vintage,288.29,liters,Linkbridge,30/05/2023,03/04/2023,2.68,8.07
+963,"Chicken - Leg, Boneless",176.43,cups,Eayo,,07/04/2022,,7.14
+964,"Lid - 10,12,16 Oz",222.95,milliliters,Rhybox,08/11/2023,03/08/2022,6.55,6.35
+965,Isomalt,901.92,liters,Tagcat,,06/10/2023,,
+966,Broom - Corn,67.74,teaspoons,Babblestorm,,26/01/2023,7.24,2.1
+967,Rolled Oats,126.46,kilograms,Ailane,01/07/2023,17/01/2023,6.74,5.95
+968,Beer - Mcauslan Apricot,511.88,grams,Fivebridge,10/06/2022,07/03/2022,,4.84
+969,Pumpkin,165.9,grams,Feedbug,18/10/2022,11/05/2023,1.32,9.33
+970,Muffin Puck Ww Carrot,627.23,liters,Zooveo,,15/10/2023,0.94,4.23
+971,"Mushroom - Shitake, Fresh",332.86,cups,Twitterlist,01/12/2022,11/10/2023,2.88,8.63
+972,"Stock - Veal, White",501.53,cups,Edgetag,,09/04/2022,5.08,6.89
+973,Pumpkin - Seed,38.22,milliliters,Jetpulse,28/04/2023,31/10/2022,8.56,3.65
+974,"Lemonade - Strawberry, 591 Ml",977.08,kilograms,Brainverse,13/05/2022,20/04/2022,7.11,0.64
+975,Chocolate Bar - Coffee Crisp,447.06,cups,Quaxo,21/11/2023,26/12/2023,8.27,4.26
+976,Fennel - Seeds,303.51,grams,Voomm,18/01/2023,23/11/2023,0.27,3.46
+977,"Nut - Cashews, Whole, Raw",232.72,tablespoons,Quatz,25/09/2022,24/03/2022,4.83,7.37
+978,Parasol Pick Stir Stick,314.82,kilograms,Edgetag,28/12/2023,25/03/2023,,0.44
+979,Puree - Raspberry,409.56,milliliters,Omba,25/10/2022,20/03/2022,2.86,4.66
+980,"Beans - Kidney, Red Dry",94.11,liters,Viva,22/10/2023,01/12/2023,,8.1
+981,Tea - Grapefruit Green Tea,295.04,grams,Ooba,,07/06/2022,8.43,5.12
+982,Gatorade - Xfactor Berry,983.45,kilograms,Tagtune,,05/06/2023,,6.06
+983,Cassis,844.06,grams,Layo,,25/04/2023,,1.89
+984,Wine - Remy Pannier Rose,844.06,milliliters,Devcast,,29/08/2022,,5.0
+985,Artichokes - Jerusalem,262.6,grams,Realpoint,,11/06/2023,6.94,8.88
+986,Bread - Hamburger Buns,794.85,liters,Brainverse,,09/07/2023,2.84,7.6
+987,Flavouring - Orange,211.37,kilograms,Jabberbean,,30/09/2023,,4.75
+988,Pepper - Sorrano,817.75,tablespoons,Omba,,07/02/2023,1.38,
+989,Soup Campbells Mexicali Tortilla,316.8,liters,Podcat,24/04/2023,01/04/2023,,0.65
+990,Spinach - Frozen,941.53,cups,Tambee,,25/07/2023,4.69,0.18
+991,Lobster - Cooked,51.32,grams,Tagchat,20/08/2022,21/01/2022,9.86,6.52
+992,"Beans - Kidney, Red Dry",995.13,kilograms,Cogidoo,01/05/2023,28/09/2023,,6.76
+993,Lobster - Canned Premium,940.36,kilograms,Geba,,04/05/2022,6.74,3.19
+994,Yokaline,625.98,cups,Devbug,05/09/2022,07/02/2023,4.64,
+995,Tomato - Green,915.43,teaspoons,Kamba,29/08/2022,22/07/2022,2.58,6.36
+996,Spring Roll Veg Mini,400.37,milliliters,Aibox,,30/11/2023,9.77,1.3
+997,"Bread - Roll, Calabrese",407.6,tablespoons,Zoovu,,,2.73,9.17
+998,Venison - Denver Leg Boneless,281.82,tablespoons,Zoomlounge,,09/07/2022,8.4,9.72
+999,Juice - Orange,905.03,kilograms,Flashpoint,,30/04/2023,6.56,3.96
+1000,"Lemonade - Black Cherry, 591 Ml",446.16,kilograms,Oba,,04/04/2022,4.29,
